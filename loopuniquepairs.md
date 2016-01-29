@@ -4,4 +4,4 @@
 ```
 
 
-%tags: java snippets
+%tags: java, snippets

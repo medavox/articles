@@ -10,4 +10,4 @@ Contains a teensy bit of code from Serenity's [Shellhook Messages Tool](http://w
 ```
 
 
-%tags: ahk productivity
+%tags: ahk, productivity

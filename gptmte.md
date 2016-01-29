@@ -121,8 +121,8 @@ From my browser, originally.
 
 
   * [JOE's own editor - another textmode text editor](http://joe-editor.sourceforge.net/)
-  * [dex - a dextrous text editor
-  * [[http://www.yolinux.com/TUTORIALS/LinuxTextEditors.html|Linux text editors comparison on YoLinux](https://github.com/tihirvon/dex)
+  * [dex - a dextrous text editor](https://github.com/tihirvon/dex)
+  * [http://www.yolinux.com/TUTORIALS/LinuxTextEditors.html](Linux text editors comparison on YoLinux)
 
 ### Useful Stuff
 

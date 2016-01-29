@@ -9,4 +9,4 @@ Expect a lot of oerlap with general linux server admin, as that's mostly what my
 
 [General Linux Usability Tips](linuxtips)
 
-%tags:raspi raspberrypi
+%tags:raspi, raspberrypi

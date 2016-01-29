@@ -86,4 +86,4 @@ avconv -i <infile> -vn -acodec copy <outfile>.mp4
 Yes, it's exactly the same. Panic over.
 
 
-%tags:linux apt debian ubuntu bash commandline server
+%tags:linux, apt, debian, ubuntu, bash, commandline, server

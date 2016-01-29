@@ -1,4 +1,5 @@
-## =Minecraft Toggle Keys
+Minecraft Toggle Keys
+===
 
 Takes the edge off of grinding (or walking) in Minecraft.
 ```autohotkey
@@ -6,4 +7,4 @@ Takes the edge off of grinding (or walking) in Minecraft.
 ```
 
 
-%tags: ahk minecraft
+%tags: ahk, minecraft

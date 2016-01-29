@@ -4,4 +4,4 @@ Prints some statistics about significant lines of code (sloc) in java files, inc
 ```
 
 
-%tags: python java productivity
+%tags: python, java, productivity

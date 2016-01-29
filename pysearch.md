@@ -4,4 +4,4 @@ A small python script to search recursively for files which match the supplied p
 ```
 
 
-%tags:python productivity
+%tags:python, productivity

@@ -22,7 +22,7 @@ Here are some pages with lots of text that I wrote.
 
 [My ideas for a new General-Purpose, textmode(terminal) text editor](gptmte)
 
-[My plan for a robust, distributed, future-proof, and cheap, home video backup solution.](homeVidBackup)
+[My plan for a robust, distributed, future-proof, and cheap, home video backup solution](homeVidBackup)
 
 [My plan for a distributed open-source Dropbox clone built on existing technology](distribox)
 
@@ -43,14 +43,6 @@ Useful code snippets and techniques
 ## Recipes
 
 {{topic>recipes}}
-
-## Academia
-
-This is stuff relating to my degree.
-
-### Databases Revision
-
-{{topic>SCC201}}
 
 ## Lists and Things
 
