@@ -19,3 +19,10 @@ Adventure (video)
 * Tomb Raider(s)
 * Uncharted
 * Mass Effect
+
+Scott Manley Recommends
+=====
+
+* assault horizon
+* diaspora
+* rise of flight
