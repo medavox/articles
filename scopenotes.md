@@ -10,3 +10,5 @@ Some scopenotes:
 | Code not in same package as variable’s definition | Access allowed | Access denied | Access denied | Access denied |
 
 there we are.
+
+%tags:software, java, actionscript, practical

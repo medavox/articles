@@ -9,3 +9,5 @@ talk to them
 find out why they hate  
 whether ignorance, fear, a grudge or just cruelty  
 help them be more tolerant
+
+%tags: thoughts

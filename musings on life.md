@@ -18,3 +18,5 @@ boring but practical/simple yet awesome
 LIVE your principles
 substance over style
 Knight in Sour Armor
+
+%tags: thoughts, navel gazing

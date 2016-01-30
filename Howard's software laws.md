@@ -6,3 +6,5 @@
 	* creates a [new, universal documentation standard](https://xkcd.com/927/)
 	* develops its own compilation software, from scratch
 	* reinvents itself with a fresh, hip new look (read: massive feature cutdown), alienating its loyal user base, whilst failing to be noticed by new users, who all just use mobile now anyway
+
+%tags: software, rant, thoughts

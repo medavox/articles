@@ -4,5 +4,5 @@ Template for creating python scripts which operate recursively on files in a dir
 ```
 
 
-%tags: python
+%tags: software,python
 

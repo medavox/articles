@@ -16,3 +16,5 @@
 * able to use improvised weapons, ie stick = club; hatchet; knife; prybar
 * should be able to sleep in a car
 * running should keep you warmer
+
+%tags: games, ideas

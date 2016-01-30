@@ -12,3 +12,5 @@ Bad Points
 - widely available versions for linux & windows are not the same, and are incompatible for multiplayer
 - no native (maintained) build instructions for Windows (!), poorly defined list of build requirements
 - project development is focused on continued game redesign of a legacy product, alienating older players, instead of maintenance and bugfixes
+
+%tags: software

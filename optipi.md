@@ -26,4 +26,4 @@ These two don't actually speed your pi up, but they are invaluable tools in orde
 * install `sysv-rc-conf`: its ncurses interface is a bit claggy (how do you increase the daemon name column's width?) but this program allows you to edit which daemons (services) start in which run levels. Handy for a quick removal of a daemon you want to keep, but not at startup, such as gpm (which you won't want running ALL the time, only when you're logged in).
 
 
-%tags:linux tips, raspi, raspberrypi, raspberry pi, apt, debian, ubuntu, server
+%tags:linux tips, raspi, raspberrypi, raspberry pi, apt, debian, ubuntu, server,devops

@@ -17,3 +17,5 @@ People with professional interest in neither the arts nor sciences can become pa
 Are there really any 'solved problems' though? what about food growth? we need to continue raising the density/efficiency at which we grow food, in order to feed everyone as the population expands. That cannot remain static. Road building? uses Bitumen, a by-product of the oil industry. We'll need another way to build roads when the oil runs out. Bin-emptying hasn't even been perfected yet; not everything is recycled. We are still sweeping tons of rubbish under the proverbial carpet of landfill, and trying to forget about it.
 
 A government which takes money from its citizens (taxes them) without doing anything good for them (providing services) is completely useless, and possibly corrupt.
+
+%tags: politics,ideas

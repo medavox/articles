@@ -26,3 +26,5 @@ Scott Manley Recommends
 * assault horizon
 * diaspora
 * rise of flight
+
+%tags: games, lists

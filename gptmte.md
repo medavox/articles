@@ -129,3 +129,5 @@ From my browser, originally.
 
   * [a spiffy collection of nano syntax highlighting files](https://github.com/serialhex/nano-highlight)
   * [config file syntax highlighting for nano](https://bbs.archlinux.org/viewtopic.php?id=133595)
+
+%tags: software, ideas

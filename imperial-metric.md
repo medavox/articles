@@ -6,3 +6,5 @@
 | 1qt (quart)         | 1137ml             | 946ml |
 | 1gal (gallon)       | 4546ml             | 3875ml|
 | 1oz (ounce)         | 28.35g (grams)     |
+
+%tag: practical

@@ -103,4 +103,4 @@ Other Stuff
 
 Eventually, Ethelred will have his own "internet browser", some kind of HTTP client which presents web page text to the language engine in a sane manner, ignoring images. JavaScript support is unknown yet. Probably best to save it for later.
 
-%tags:project,software,ai
+%tags:project,software,ai,ideas

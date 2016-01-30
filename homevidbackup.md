@@ -94,3 +94,5 @@ Here I need to decide on a future-proof, robust(won't panic and become unreadabl
 
 
 My plan for a robust, distributed, future-proof, and cheap, home video backup solution.
+
+%tags: plan, software

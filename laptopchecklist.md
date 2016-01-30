@@ -17,7 +17,7 @@ A lot of these have been discovered from falling for these, so hopefully over ti
   * is the keyboard British?
       * shift-3 = £
       * enter key is 2 rows tall
-      * left of Z = \
+      * left of Z = \\
       * left of 1 = `
   * Are the function keys accessible without Fn?
   * Is the CTRL key in the bottom-left of the keyboard?
@@ -26,3 +26,5 @@ A lot of these have been discovered from falling for these, so hopefully over ti
   * How badly scrunched up are the arrow keys?
   * Is it easy to turn the monitor brightness up/down, WiFi and Bluetooth on-off?
       * each action should be doable with one hand, but without being able to accidentally do them
+
+%tags: lists,hardware,practical

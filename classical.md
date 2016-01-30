@@ -16,4 +16,4 @@
 | Camille Saint-Saens | Le Cygne | The Swan |
 |Jules MASSENET | Méditation de Thaïs |
 
-%tags:misc
+%tags: music

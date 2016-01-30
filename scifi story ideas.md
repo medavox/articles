@@ -86,3 +86,5 @@ Also, zombies exist culturally, allowing meta discussion and people implementing
 
 There is a question as to whether something of the self survives. Actual symptoms of being a zombie vary,
 and can be as mild as that of a strung-out meth head
+
+%tags: stories,ideas,scifi

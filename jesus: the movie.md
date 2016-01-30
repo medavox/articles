@@ -8,3 +8,5 @@ if jesus was a comic book character, and a film adaptation was made of his story
 * one (just one) character would be played by a black person
 * there might also be a token british character
 * if there is even a sniff of an historical theme, expect it to be riddled with unexplainable (mostly) fake british accents
+
+%tags:thoughts

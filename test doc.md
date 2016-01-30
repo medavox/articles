@@ -24,4 +24,4 @@ here are forced linebreaks
 mixed with lines without linebreaks
 and another with a line break  
 
-%tags: software, yonglwood, this is a tag with spaces
+%tags: software, practical

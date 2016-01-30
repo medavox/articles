@@ -8,3 +8,5 @@ moon hooch
 mahogany (active around 2006) http://www.mahogany.nu/
 Hello Seahorse!
 Frames - In Via
+
+%tags: lists, music

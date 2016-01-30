@@ -94,4 +94,4 @@ Science
 	- Units
 	- armaments/defensive structures
 
-%tags: sofware, games dev, games, ideas
+%tags: software, games dev, games, ideas

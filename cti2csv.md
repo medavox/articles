@@ -7,4 +7,4 @@ Currently horribly written, but works.[^1]
 ```
 
 
-%tags:python 
+%tags:python,software,practical

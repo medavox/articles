@@ -22,3 +22,5 @@ compared to the last version. It means I don't break compatibility because I wan
 or show off my talent as an artist/engineer/modeller.
 
 I write clean, understandable code, with comments explaining my intentions. Come help, it'll be fun.
+
+%tags:software,rant,ideas

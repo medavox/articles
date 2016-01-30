@@ -191,3 +191,5 @@ Penicillin - http://www.howtodothings.com/health-fitness/how-to-make-penicillin
     * A site about permaculture and sustainable living this links specifically to an article about more eco-friendly laundry, although it's a little common-sense
 * Adam Hart-Davis's Science Shack: When The Oil Runs Out ([YouTube Link](http://www.youtube.com/watch?v=ggzfqRTzJ9M))
     * A lovely overview of offgrid living in a nicely digestible BBC format. Adam Hart-Davis  is awesome!
+
+%tags: permaculture, offgrid, plan

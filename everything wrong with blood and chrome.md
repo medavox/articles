@@ -22,3 +22,5 @@ morally ambiguous military administration
 	this was made in 2012, not 2003. that's old hat  
 no working-class characters like The Chief  
 a shotgun blast to the shoulder only gets a cylon's attention, but you can kill it by flailing randomly at it with a crowbar?  
+
+%tags:fandom,rant
