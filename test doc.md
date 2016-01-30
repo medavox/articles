@@ -11,7 +11,7 @@ for testing the various unique features of Paitu.
 * [almost-proper link without trailing slash](http://duckduckgo.com)
 
 ``` python
-%include ../includes/testcode.py
+%include includes/testcode.py
 ```
 
 the first tag has a space before it, also
