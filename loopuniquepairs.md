@@ -1,6 +1,6 @@
 
 ```java
-%include ../includes/loopUniquePairs.java
+%include includes/loopUniquePairs.java
 ```
 
 
