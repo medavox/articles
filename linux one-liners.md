@@ -1,4 +1,4 @@
-# General Linux Usability Tips 
+# (Debian?) Linux One-Liners 
 
 
 These are various bash commands and tricks I've accumulated, which help in the day-to-day usage of my linux laptop.

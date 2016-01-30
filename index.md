@@ -2,9 +2,9 @@
 
 I put useful tips and things here, if you want to look.
 
-[Raspberry Pi Stuff](raspi)
+[Raspberry Pi Stuff](raspi stuff)
 
-[General Linux Usability Tips](linuxtips)
+[Linux Usability Tips](linux one-liners)
 
 ## Practical Python Scripts
 
