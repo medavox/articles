@@ -10,3 +10,11 @@ discover happiness
 happiness does not preclude productivity  
 write your own story and fuck what you 'should' do.  
 get a real job, not some dead-end office shit  
+
+
+Be:-
+
+boring but practical/simple yet awesome
+LIVE your principles
+substance over style
+Knight in Sour Armor
