@@ -2,6 +2,7 @@ North Korea
 to summarise what I've 'learned' in 2.5 days of documentaries;
 
 Hardship and starvation are both rife, partly due to international trade embargoes, but also due to:-
+
 * an incompetent government letting ideology come before prosperity;
 * a very corrupt bureaucratic class siphoning off large portions of the country's wealth;
 * wasting the 10 best years of every citizen's life prancing about in uniform instead of working to improve the country (food, research and production). Not to mention the wealth that has been redirected to pay for the military hardware

@@ -25,3 +25,13 @@ mixed with lines without linebreaks
 and another with a line break  
 
 %tags: software, practical
+
+
+<a:test anchor>Anchors aweigh!
+=======
+
+that was a Paitu valid anchor. But this next one won't be.
+
+didn't work, hopefully?
+
+random changes bluh bluh
