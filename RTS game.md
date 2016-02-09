@@ -12,6 +12,10 @@ research & design (of units and defensive structures)
 roles (or jobs) could be optional (like religion), to give a group with a large number something for everyone to do  
 or some jobs could be missed out, with negative consequences
 
+It would be nice for a spread of nations with varying levels of technology to be able to co-exist  
+Or for nations with different focuses, eg heavy industry, high-tech, agricultural, financial  
+This could even bring degrees of neoliberalism into play: how much do players (as the government of their nation) take an active role in the game, or do they merely create a favourable environment for private citizens/businesses to 'win' for them?
+
 Activities (to be shared between roles?)
 ------
 
