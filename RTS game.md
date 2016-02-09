@@ -17,6 +17,10 @@ Activities (to be shared between roles?)
 
 do we actually need players to put on different hats, to manage different parts of the economy?
 
+We could instead have a pool of titles. Players (elect themselves / are elected) to each title, which comes with its own set of powers/responsbilities.
+
+There should usually be fewer players on a side than there are titles, so the way the titles arte split up will have interesting implications for what kind of government has been set up
+
 * building new cities
 * exploring the map
 * gathering resources
