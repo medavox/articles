@@ -1,6 +1,8 @@
 Paitu Test Document
 ===================
 
+%authors: God, Judge Judy, some gay men
+
 for testing the various unique features of Paitu.
 
 * [case-insensitive internal link](chat bOt project)
@@ -35,3 +37,5 @@ that was a Paitu valid anchor. But this next one won't be.
 didn't work, hopefully?
 
 random changes bluh bluh
+
+%author:god, the buddha, iesu xristi, etc
