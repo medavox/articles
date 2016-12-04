@@ -102,4 +102,18 @@ Science
 	- Units
 	- armaments/defensive structures
 
+The interactio bertween players in the same government is so complex, it could stand as a game on its own
+
+Why bother with a rival government for now?
+
+Could use simulations of citizens
+
+motivation based
+each citizen has basic needs (food/home/safe/work/fun), followed by demographic-specific needs
+
+whether they vote for you, support you or try to overthrow depends on their needs
+
+Could scale this from a tribal village, to a city-state, to city-states, to principality, to country
+
+
 %tags: software, games dev, games, ideas
