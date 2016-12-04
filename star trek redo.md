@@ -9,7 +9,7 @@ gay people exist
 
 no holodeck - however a matrix-like neural simulator exists, but is controversial  
 tactile button-based controls for priority posts  
-replicators exist, but require suuplies raw materials  
+replicators exist, but require supplies of raw materials  
 many people prefer to cook their own food, replicating the ingredients instead  
 the UFP's success is due to fusing the pursuit of scientific knowledge with compassion for fellow people  
 due to logistical constraints, starships are usually single-species environments, so that their atmospheres, temperatures, humidities,  
@@ -19,9 +19,9 @@ orbital mechanics are respected, as are the newtonian laws of motion
 planetary exploration is carried out by specially-trained away-teams (rather than bridge crew),  
 launched in drop-ships
 
-warp drive exists, because it has to, for the star trek universe to work at all  
+warp drive exists because it has to, for the star trek universe to work at all  
 it's a riff on the alcubierre drive theory  
-the UFP operates as an 'Asynchronous Society': because of the time dilation effects of waro drive,  
+the UFP operates as an 'Asynchronous Society': because of the time dilation effects of warp drive,  
 solar systems are isolated pockets of local time.  
 Going on a far intersolar mission means 50 or more years will have passed back home  
 this is why starship crew bring their family along!
