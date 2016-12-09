@@ -9,7 +9,7 @@ For Solo Play
 
 Where the bass note is the first or the fifth of the chord. These chords can be played on their own.
 
-	x	| Maj  | min  | Maj7 | min7 | Dom7
+X		| Maj  | min  | Maj7 | min7 | Dom7
 --------|------|------|------|------|-----
 A		| 2240 | 2230 | 2244 | 2233 | 2243
 A#/Bb	| 3011 | 	  |      |      |
@@ -29,7 +29,7 @@ For Accompanied Play
 
 Where the bass note can be any part of the chord. We rely on the bass note from another instrument (such as bass guitar).
 
-	x	| Maj  | min  | Maj7 | min7 | Dom7
+X       | Maj  | min  | Maj7 | min7 | Dom7
 --------|------|------|------|------|-----
 A		| 2240 | 2230 | 2244 | 2233 | 2243
 A#/Bb	| 3011 |      |      |      |
@@ -43,3 +43,5 @@ F		| 5301 |      | 2330 | 1131 | 2131
 F#/Gb	|      |      |      |      |
 G		| 0023 | 0013 | 0022 | 0011 | 0021
 G#/Ab	| 1134 | 1124 | 1133 | 1122?| 1132?
+
+%tags: music
