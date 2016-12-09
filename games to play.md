@@ -1,5 +1,8 @@
-Strategy & Building/Management
+Games Recommendations
 ===
+
+Strategy & Building/Management
+---
 * Cities: Skylines
 * Dwarf Fortress (Still!)
 * AI War: Fleet Command
@@ -10,18 +13,18 @@ Strategy & Building/Management
 * NEON STRUCT
 
 Board/Card Games
-===
+---
 * Pictomania
 * Funemployed
 
 Adventure (video)
-===
+---
 * Tomb Raider(s)
 * Uncharted
 * Mass Effect
 
 Scott Manley Recommends
-=====
+---
 
 * assault horizon
 * diaspora
