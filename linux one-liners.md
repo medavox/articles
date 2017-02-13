@@ -82,8 +82,13 @@ here's the new version of the command, for us with libAV (the fork of ffmpeg ado
 avconv -i <infile> -vn -acodec copy <outfile>.mp4
 ```
 
-
 Yes, it's exactly the same. Panic over.
+
+
+##Recursively find-replace a regex pattern with a new one, in files matching a criteria
+
+```find ./ -iname <pattern> -exec sed -i 's/oldtext/newtext/' {} \;```
+
 
 
 %tags:linux, apt, debian, ubuntu, bash, commandline, server
