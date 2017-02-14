@@ -30,3 +30,13 @@ public class TestWithContext {
 }
 ```
 
+Waiting for some time in Android
+---
+
+###(instead of Java's `Thread.sleep(long ms)` )
+
+This [hidden gem](https://developer.android.com/reference/android/os/SystemClock.html) says to do this:
+
+```
+SystemClock.sleep(long ms)
+```
