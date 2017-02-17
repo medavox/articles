@@ -1,7 +1,7 @@
-Adam's Low-Cost Milk Substitute
-=============================
+My Low-Cost Milk Substitute
+===========================
 
-If you need a milk-like fluid (sounds appealing, eh?) in an emergency, this'll sort you out.
+If you need a milk-like fluid (sounds appealing, eh?) in a pinch, this'll sort you out.
 
 Technically this is a kind of gruel, but it has milk-like properties.
 
@@ -33,7 +33,7 @@ Downsides
 ------
 
 * For all the wishing in the world, it's NOT milk. So nutritionally, it WILL be different.
-	I would bet there's no calcium in it, for one thing.
+	I would bet there's little or no calcium in it, for one thing.
 * The consistency can easily become gloopy, which is unappealing. Possibly add more water to fix this.
 * It can also separate slightly after standing. Just give it a stir; this even happens to soya milk.
 * It won't LOOK that much like milk, probably due to complicated food chemistry reasons,
@@ -50,12 +50,13 @@ I've tested oats, rice and peanut butter in various combinations and,
 considering the more expensive this recipe gets the less point it has,
 these 2 ingredients seem to provide the best trade-off between price and quality.
 
-The peanut butter provides the fats, protein and some salt,
+The peanut butter provides the fats, protein and salt,
 and the rice provides sugars and carbohydrates.
 
-You can try any edible fat and starch source (so no candle wax, earwax or petroleum jelly please).  
+You can try any edible fat and starch source (no candle wax, earwax or petroleum jelly).  
 I found that adding the solid part of coconut milk (I had it lying around at the time) produced a creamier, yummy result.
 And whitened the mixture slightly, which helps with presentation.
+But obviously, that's a rarer, more expensive ingredient
 
 Ingredients/You Will Need:
 -------

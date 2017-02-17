@@ -1,7 +1,7 @@
 SEVENTEEN 
 ===
 
-By Sian Hill
+Music & Lyrics by Sian Hill
 
 (c) Sian Hill 2013.
 

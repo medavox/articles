@@ -18,10 +18,10 @@ aided by the support of the last wise kingdom of Elves (the UK),
 whose last ounce of strength had been spent defeating the rise another great Evil
  likes of which had not been seen since the Second Age
 
-A group of lowly Hobbits, led by a simple dock worker,
+A group of lowly Hobbits, led by a simple boatsman (dock worker),
 bade to peacefully loosen the Enemy's grip on the lands east of the Rhein 
 The Council of The Solid
-led by Lech Walesa himself
+led by the mighty Lech Walesa himself
 
 "This is not an allegory for the Fall of the Soviet Union"
 - J.R.R. Tolkien
