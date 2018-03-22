@@ -36,6 +36,17 @@ use fewer-to-no examples of an american metaphor -- no big, heavily-armed milita
 no "it's for your own good" and gunboat diplomacy
 replicators can assemble relatively simple shapes from existing materials -- but they can't perform alchemy; they need the right raw materials
 
+What if there were other multi-species civilisations, with high-minded goals not dissimelar to the Federation itself;
+yet it and the Federation have tense relations (possibly due to a disagreement on some obscure political principles,
+a la the tendency of the Left to schism)?
+
+Realism of Details
+-----
+* Seatbelts.
+* People have to finish announcing their intended recipient before a comm badge connects them
+* Stop referring to Starfleet as "Humans", or acting like everyone in starfleet knows all about Earth history
+* No more tokenboobs catsuit & pushup bra crewmembers; just put the same characters in a normal uniform!
+
 Increased Scientific Accuracy
 ----
 
@@ -44,12 +55,16 @@ Increased Scientific Accuracy
 * Use real units and materials where possible -- no gigaquads, instead gigabytes; no isorems but rather millisieverts.
 * Equally, stop inventing a new form of radiation every week as a throwaway plot-point
 * No wave or beam can penetrate a planet, without also destroying that planet
+* Heat dissipation and deceleration are still challenges 
+* R-squared law must still be respected -- for all things, like explosions, sounds, point-sources
+    - parabolic dishes should also come into play at least as much as they already do -- ie the Deflector Dish
 
 ### Space Travel
 
-There are crazy, enterprise-like starship designs, and then there are those suitable for atmospheric travel.
-A ship with big sticky-out nacelles on thin pylons will always suffer unnecessary structural stresses when turning at speed;
-structural forcefields would help, but only with enough power to run them. More sensible designs should always win out  
+* There are crazy, enterprise-like starship designs, and then there are those suitable for atmospheric travel.
+* A ship with big sticky-out nacelles on thin pylons will always suffer unnecessary structural stresses when turning at speed;
+    - structural forcefields would help, but only with enough power to run them.  
+More sensible designs should always win out  
 
 ### Medicine
 
