@@ -46,6 +46,8 @@ The idea being, to not have simple straw-man enemies that it's obvious we're sup
 Major command decisions should require consensus of at least 2 of the 3 senior officers.  
 In fact, the command structure should be less militaristic in general
 
+The Federation is by definition a post-scarcity civilisation; as CGPGrey 
+
 Realism of Details
 -----
 * Seatbelts.
