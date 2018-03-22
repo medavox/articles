@@ -54,6 +54,7 @@ Realism of Details
 * No more tokenboobs catsuit & pushup bra crewmembers; just put the same characters in a normal uniform!
 * People don't all know how to use all computers
 * Other species may have multiple cultures: pacifist klingons, emotional vulcans...
+* there aren't just energy weapons & shields -- sometimes kinetic weapons work better.
 
 Increased Scientific Accuracy
 ----
