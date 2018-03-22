@@ -53,6 +53,7 @@ Realism of Details
 * Stop referring to Starfleet as "Humans", or acting like everyone in starfleet knows all about Earth history
 * No more tokenboobs catsuit & pushup bra crewmembers; just put the same characters in a normal uniform!
 * People don't all know how to use all computers
+* Other species may have multiple cultures: pacifist klingons, emotional vulcans...
 
 Increased Scientific Accuracy
 ----
