@@ -40,6 +40,12 @@ What if there were other multi-species civilisations, with high-minded goals not
 yet it and the Federation have tense relations (possibly due to a disagreement on some obscure political principles,
 a la the tendency of the Left to schism)?
 
+The idea being, to not have simple straw-man enemies that it's obvious we're supposed to dislike.  
+'Enemies' should have a viewpoint that is understandable, or at least partially. 
+
+Major command decisions should require consensus of at least 2 of the 3 senior officers.  
+In fact, the command structure should be less militaristic in general
+
 Realism of Details
 -----
 * Seatbelts.
