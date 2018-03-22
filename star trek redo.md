@@ -32,26 +32,29 @@ along with this, electronic body modification is an extreme taboo(maybe?)
 
 articial gravity exists as a passive technology: that is, it works even when unpowered.
 
-use fewer-to-no examples of an american metaphor -- no big, heavily-armed military organisation with thinly-veiled colonial tendencies
-no "it's for your own good" and gunboat diplomacy
-replicators can assemble relatively simple shapes from existing materials -- but they can't perform alchemy; they need the right raw materials
+* use fewer-to-no examples of an american metaphor -- no big, heavily-armed military organisation with thinly-veiled colonial tendencies
+    - no "it's for your own good" and gunboat diplomacy
+* replicators can assemble relatively simple shapes from existing materials -- but they can't perform alchemy; they need the right raw materials, as elemental fusion is prohibitively costly of energy, and probably wasteful
 
-What if there were other multi-species civilisations, with high-minded goals not dissimelar to the Federation itself;
-yet it and the Federation have tense relations (possibly due to a disagreement on some obscure political principles,
+What if there were other multi-species civilisations, with high-minded goals not dissimilar to the Federation itself;
+yet they and the Federation have tense relations (possibly due to a disagreement on some obscure political principles,
 a la the tendency of the Left to schism)?
 
 The idea being, to not have simple straw-man enemies that it's obvious we're supposed to dislike.  
-'Enemies' should have a viewpoint that is understandable, or at least partially. 
+'Enemies' should have a viewpoint that is understandable (or at least partially) yet misguided, or for which there are people out there today who believe the same.
 
-Major command decisions should require consensus of at least 2 of the 3 senior officers.  
+Major command decisions should require the consensus of at least 2 of the 3 senior officers.  
 In fact, the command structure should be less militaristic in general
 
-The Federation is by definition a post-scarcity civilisation; as CGPGrey 
+The Federation is by definition a post-scarcity civilisation; people don't NEED to work, 
+but it is encouraged that everyone contributes to society in a way that pleases them, and/or according to their ability.
+
+People show a great deal more goodwill and willingness to help others than in the West now.
 
 Realism of Details
 -----
-* Seatbelts.
-* People have to finish announcing their intended recipient before a comm badge connects them
+* Seatbelts. Much cheaper than inertial dampeners, and saves on cheesy 'bump' acting
+* People have to finish announcing their intended recipient before a comm badge connects them to that recipient
 * Stop referring to Starfleet as "Humans", or acting like everyone in starfleet knows all about Earth history
 * No more tokenboobs catsuit & pushup bra crewmembers; just put the same characters in a normal uniform!
 * People don't all know how to use all computers
