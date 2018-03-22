@@ -1,19 +1,18 @@
 Star Trek Re-Do
 =====
-no transporters - they just make no sense.  
+
+no transporters - they just make no sense, and ruin perfectly good stories, remove threat.  
 site-to-site replication might exist, beaming the things energy and 'blueprint',  
 but this could easily act as a weapon, given the energy content of matter  
 
-gay people exist
-
+gay and trans people exist!
 
 no holodeck - however a matrix-like neural simulator exists, but is controversial  
 tactile button-based controls for priority posts  
 replicators exist, but require supplies of raw materials  
 many people prefer to cook their own food, replicating the ingredients instead  
 the UFP's success is due to fusing the pursuit of scientific knowledge with compassion for fellow people  
-due to logistical constraints, starships are usually single-species environments, so that their atmospheres, temperatures, humidities,  
-aromas etc can be tailored to the comfort of their crew  
+due to logistical constraints, starships are usually single-species environments, so that their atmospheres, temperatures, humidities, aromas etc can be tailored to the comfort of their crew  
 forcefields are limited, and have not replaced airlocks  
 orbital mechanics are respected, as are the newtonian laws of motion  
 planetary exploration is carried out by specially-trained away-teams (rather than bridge crew),  
@@ -33,7 +32,29 @@ along with this, electronic body modification is an extreme taboo(maybe?)
 
 articial gravity exists as a passive technology: that is, it works even when unpowered.
 
-there are crazy, enterprise-like starship designs, and then there are those suitable for atmospheric travel.
+use fewer-to-no examples of an american metaphor -- no big, heavily-armed military organisation with thinly-veiled colonial tendencies
+no "it's for your own good" and gunboat diplomacy
+replicators can assemble relatively simple shapes from existing materials -- but they can't perform alchemy; they need the right raw materials
+
+Increased Scientific Accuracy
+----
+
+### General
+
+* Use real units and materials where possible -- no gigaquads, instead gigabytes; no isorems but rather millisieverts.
+* Equally, stop inventing a new form of radiation every week as a throwaway plot-point
+* No wave or beam can penetrate a planet, without also destroying that planet
+
+### Space Travel
+
+There are crazy, enterprise-like starship designs, and then there are those suitable for atmospheric travel.
+A ship with big sticky-out nacelles on thin pylons will always suffer unnecessary structural stresses when turning at speed;
+structural forcefields would help, but only with enough power to run them. More sensible designs should always win out  
+
+### Medicine
+
+* Individuals are not suddenly and irrevocably dead when a machine makes a persistent whining noise
+* Also stop using the 80s medical drama of defibrillator usage
 
 
 Key technological advances:
