@@ -52,6 +52,7 @@ Realism of Details
 * People have to finish announcing their intended recipient before a comm badge connects them
 * Stop referring to Starfleet as "Humans", or acting like everyone in starfleet knows all about Earth history
 * No more tokenboobs catsuit & pushup bra crewmembers; just put the same characters in a normal uniform!
+* People don't all know how to use all computers
 
 Increased Scientific Accuracy
 ----
