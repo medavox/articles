@@ -10,31 +10,34 @@ gay and trans people exist!
 no holodeck - however a matrix-like neural simulator exists, but is controversial  
 tactile button-based controls for priority posts  
 replicators exist, but require supplies of raw materials  
-many people prefer to cook their own food, replicating the ingredients instead  
-the UFP's success is due to fusing the pursuit of scientific knowledge with compassion for fellow people  
-due to logistical constraints, starships are usually single-species environments, so that their atmospheres, temperatures, humidities, aromas etc can be tailored to the comfort of their crew  
+many people prefer to cook their own food, replicating the ingredients instead
+
 forcefields are limited, and have not replaced airlocks  
 orbital mechanics are respected, as are the newtonian laws of motion  
 planetary exploration is carried out by specially-trained away-teams (rather than bridge crew),  
 launched in drop-ships
 
-warp drive exists because it has to, for the star trek universe to work at all  
-it's a riff on the alcubierre drive theory  
-the UFP operates as an 'Asynchronous Society': because of the time dilation effects of warp drive,  
-solar systems are isolated pockets of local time.  
-Going on a far intersolar mission means 50 or more years will have passed back home  
-this is why starship crew bring their family along!
-
-Artifical life has been banned, after a war for survival which nearly wiped out all biological life  
-computers and large computing machines are allowed, but neural nets are forbidden,  
-	and small electronics are allowed on a case-by-case basis  
-along with this, electronic body modification is an extreme taboo(maybe?)  
-
 articial gravity exists as a passive technology: that is, it works even when unpowered.
 
-* use fewer-to-no examples of an american metaphor -- no big, heavily-armed military organisation with thinly-veiled colonial tendencies
-    - no "it's for your own good" and gunboat diplomacy
-* replicators can assemble relatively simple shapes from existing materials -- but they can't perform alchemy; they need the right raw materials, as elemental fusion is prohibitively costly of energy, and probably wasteful
+Major command decisions should require the consensus of at least 2 of the 3 senior officers.  
+In fact, the command structure should be less militaristic in general
+
+A Multi-Species Civilisation
+---------
+The UFP's success is due to fusing the pursuit of scientific knowledge with compassion for fellow people.
+
+### Between Species
+
+due to logistical constraints, starships are usually only single- or dual-species environments, so that their atmospheres, temperatures, humidities, aromas etc can be tailored to the comfort of their crew.
+
+Dual-species ships have the advantage of also acting as long-term exchange programs, 
+allowing members of each species to get to know each other by working alongside each other a real-world environment,
+rather than in the phony politeness of ambassadorial missions.
+
+Mixed-species crews, while sometimes facing major logistical problems 
+(materials which have desirable mechanical properties in all temperature ranges its species are comfortable in?) , are also better able to handle challenges which would otherwise overwhelm members of a particular species. In the same way the Voyager's doctor (and TNG's Data) act as non-biological backups when everything goes wrong, one species would not be vulnerable to the same things as the other.
+
+### Between Civilisations
 
 What if there were other multi-species civilisations, with high-minded goals not dissimilar to the Federation itself;
 yet they and the Federation have tense relations (possibly due to a disagreement on some obscure political principles,
@@ -43,13 +46,38 @@ a la the tendency of the Left to schism)?
 The idea being, to not have simple straw-man enemies that it's obvious we're supposed to dislike.  
 'Enemies' should have a viewpoint that is understandable (or at least partially) yet misguided, or for which there are people out there today who believe the same.
 
-Major command decisions should require the consensus of at least 2 of the 3 senior officers.  
-In fact, the command structure should be less militaristic in general
+* use fewer-to-no examples of an american metaphor -- no big, heavily-armed military organisation with thinly-veiled colonial tendencies
+    - no "it's for your own good" and gunboat diplomacy
+* replicators can assemble relatively simple shapes from existing materials -- but they can't perform alchemy; they need the right raw materials, as elemental fusion is prohibitively costly of energy, and probably wasteful
+
+
+### Economy
 
 The Federation is by definition a post-scarcity civilisation; people don't NEED to work, 
 but it is encouraged that everyone contributes to society in a way that pleases them, and/or according to their ability.
 
 People show a great deal more goodwill and willingness to help others than in the West now.
+
+
+Warp Drive and FTL Travel
+-------
+Warp drive exists because it has to, for the premise of an intersolar civilisation to work at all.
+
+It's a riff on the alcubierre drive theory, or whatever seems plausible and fashionable in physics now.
+
+the UFP operates as an 'Asynchronous Society': because of the time dilation effects of warp drive 
+(which may be less drastic than in real life, but still present to some extent),
+solar systems act isolated pockets of local time.
+
+Going on a far intersolar mission means 50 or more years will have passed back home; this is why starship crew bring their family along!
+
+AI and Trans-Humanism
+------
+Artifical life has been banned, after a war for survival which nearly wiped out all biological life  
+computers and large computing machines are allowed, but neural nets are forbidden,  
+	and small electronics are allowed on a case-by-case basis  
+along with this, electronic body modification is an extreme taboo(maybe?)  
+
 
 Realism of Details
 -----
