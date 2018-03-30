@@ -17,7 +17,7 @@ orbital mechanics are respected, as are the newtonian laws of motion
 planetary exploration is carried out by specially-trained away-teams (rather than bridge crew),  
 launched in drop-ships
 
-articial gravity exists as a passive technology: that is, it works even when unpowered.
+articial gravity exists as a passive, solid-state technology: that is, it works even when unpowered.
 
 Major command decisions should require the consensus of at least 2 of the 3 senior officers.  
 In fact, the command structure should be less militaristic in general
@@ -25,6 +25,19 @@ In fact, the command structure should be less militaristic in general
 A Multi-Species Civilisation
 ---------
 The UFP's success is due to fusing the pursuit of scientific knowledge with compassion for fellow people.
+
+### Interpersonal
+
+
+The Federation is by definition a post-scarcity civilisation; people don't NEED to work, 
+but it is encouraged that everyone contributes to society in a way that pleases them, and/or according to their ability.
+
+People show a great deal more goodwill and willingness to help others than in the West now.
+
+Having large crews man starships has implications that are not positive; it implies that the societty has (and must have) 'little people'; people of little achievement (implied to be of little worth, 'stepped on') who must do relatively menial or undesirable jobs.
+Gene Roddenberry's original goal was to have technology remove the NEED for people 'empty the bins', as it were (or scrub the plasma manifolds etc).
+A better setting would be a much smaller crew, the bulk of which consitute the central cast. No nameless extras.
+
 
 ### Between Species
 
@@ -49,15 +62,6 @@ The idea being, to not have simple straw-man enemies that it's obvious we're sup
 * use fewer-to-no examples of an american metaphor -- no big, heavily-armed military organisation with thinly-veiled colonial tendencies
     - no "it's for your own good" and gunboat diplomacy
 * replicators can assemble relatively simple shapes from existing materials -- but they can't perform alchemy; they need the right raw materials, as elemental fusion is prohibitively costly of energy, and probably wasteful
-
-
-### Economy
-
-The Federation is by definition a post-scarcity civilisation; people don't NEED to work, 
-but it is encouraged that everyone contributes to society in a way that pleases them, and/or according to their ability.
-
-People show a great deal more goodwill and willingness to help others than in the West now.
-
 
 Warp Drive and FTL Travel
 -------
