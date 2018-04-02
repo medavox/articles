@@ -4,14 +4,14 @@ My Proposed Improvements to Toki Pona
 The goal of this offshoot is to make an improved version of Toki Pona that is more useful 
 as an auxlang.
 
-Although speakers must still use phrases to describe things that other language use words for,
-normal Toki Pona lacks words for some basic building-block concepts,
-that make it nearly impossible to communicate clearly without using long,
-roundabout, misinterpretable paragraphs.
+Although speakers can use phrases to describe things that other languages have a word for,
+Toki Pona today lacks words for some basic building-block concepts.
+This makes it extremely difficult to be understood clearly without using long,
+roundabout, misinterpretable paragraphs for familiar things.
 
-This is not a flaw of Toki Pona, but rather a result of its design;
-you are not MEANT to be able express anything complex with it.
-Its goal is to simplify speech; it is an artlang, a language of philosophy.
+This is not a flaw of Toki Pona, but rather a result of its design.
+You are not MEANT to be able express anything complex with it.
+Its goal is to simplify speech, distilling the key meaning ; it is an artlang, a language of philosophy.
 
 However, Toki Pona's simplicity has gained it a modest international following,
 where it could potentially stumble into the role of an auxlang.
@@ -29,12 +29,13 @@ This document is a work-in-progress.
 Word Definition Changes
 -----------------------
 
-no conflation between size/height/importance, simplicity/good;
-    remove common-human-fallacy spatial-social metaphor double-meanings
-* remove 'important' meaning from 'suli'. 
-    - Not all big things are important, not all small things aren't
-* remove 'heavy' from 'suli'
-    - rolling importance, size and weight into one word is a major source of confusion
+No conflation between size/height/importance, simplicity/good;
+    remove the common human fallacy of spatial-social equality double-meanings
+* 'Suli':
+    * remove 'important' meaning from 'suli'. 
+        - Not all big things are important, not all small things aren't
+    * remove 'heavy' meaning from 'suli'
+        - rolling importance, size and weight into one word is a major source of confusion  
 * remove 'simple' meaning from 'pona'
 * remove 'divine' meaning from 'sewi'
 * remove 'lower part' meaning from 'noka'. replace with 'noka pini' = leg ending
