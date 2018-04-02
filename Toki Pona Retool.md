@@ -118,7 +118,7 @@ Word Name/Spelling Changes
 * replace (namako, sin) -> nawa
 * replace false friend sitelen (means drawing/writing, not website) -> tesen 
     - (from french 'dessin', but with a harmonised second vowel)
-* shorten kepeken
+* shorten 'kepeken' -> 'usu' (from latin 'usus', and English 'use', with harmonised vowels)
 
 ### Phonic Space
 
