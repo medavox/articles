@@ -13,12 +13,18 @@ This is not a flaw of Toki Pona, but rather a result of its design;
 you are not MEANT to be able express anything complex with it.
 Its goal is to simplify speech; it is an artlang, a language of philosophy.
 
-Its extreme simplicity has made it a good candidate as an auxlang.
-However its extreme simplicity limits its potential as a medium for internaional communication.
-In this role, it will need words for ideas that previously could be left out or ignored.
+However, Toki Pona's simplicity has gained it a modest international following,
+where it could potentially stumble into the role of an auxlang.
+But its extreme simplicity also limits its potential to communicate.
+In this role, it needs words for ideas that were previously left out or ignored.
 
 I'm retooling Toki Pona for this new purpose, 
 hopefully without compromising its central philosophy too much.
+
+Its simplicity is its greatest strength; 
+but I think that its inability to express fundamental parts of human existence should be fixed.
+
+This document is a work-in-progress.
 
 Word Definition Changes
 -----------------------
