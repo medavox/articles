@@ -13,52 +13,54 @@ This is not a flaw of Toki Pona, but rather a result of its design;
 you are not MEANT to be able express anything complex with it.
 Its goal is to simplify speech; it is an artlang, a language of philosophy.
 
-However, its extreme simplicity has made it a good candidate as an auxlang.
-In this role, it will need words for ideas that previously could be omitted.
+Its extreme simplicity has made it a good candidate as an auxlang.
+However its extreme simplicity limits its potential as a medium for internaional communication.
+In this role, it will need words for ideas that previously could be left out or ignored.
 
 I'm retooling Toki Pona for this new purpose, 
-hopefully without compromising its central philosophy too much
+hopefully without compromising its central philosophy too much.
 
 Word Definition Changes
 -----------------------
 
 no conflation between size/height/importance, simplicity/good;
     remove common-human-fallacy spatial-social metaphor double-meanings
-remove 'important' meaning from 'suli'. 
-    Not all big things are important, not all small things aren't
-remove 'heavy' from 'suli'
-    rolling importance, size and weight into one word is a major source of confusion
-remove 'simple' meaning from 'pona'
-remove 'divine' meaning from 'sewi'
-remove 'lower part' meaning from 'noka'. replace with 'noka pini' = leg ending
-add meanings 'barter/trade' to 'esun'(v)
-?remove meaning 'money' from word 'mani'.
-    Money is neither simple, good nor necessary to lead a good life
-    In fact why do we even need a word for cattle? 
-        why not 'sowelo moku suli' (hopefully meaning large food land-quadruped)?
-remove 'humble', 'lowly', 'bowing down' meanings from anpa
+* remove 'important' meaning from 'suli'. 
+    - Not all big things are important, not all small things aren't
+* remove 'heavy' from 'suli'
+    - rolling importance, size and weight into one word is a major source of confusion
+* remove 'simple' meaning from 'pona'
+* remove 'divine' meaning from 'sewi'
+* remove 'lower part' meaning from 'noka'. replace with 'noka pini' = leg ending
+* add meanings 'barter/trade' to 'esun'(v)
+* remove meaning 'money' from word 'mani'?
+    - Money is neither simple, good nor necessary to lead a good life
+    - In fact why do we even need a word for cattle?
+        - why not 'sowelo moku suli' (hopefully meaning large food land-quadruped)?
+* remove 'humble', 'lowly', 'bowing down' meanings from anpa
 
 New Words
 ---------
-'pusiki' important (from welsh bwysig)
+* 'pusiki' important (from welsh bwysig)
 
-proper comparatives: 
+* proper comparatives:
+
     more, ?molo
     less 
     (most? 
     least?)
-how about a word for amount/intensity?
-spatial words for left, right
 
+* how about a word for amount/intensity?
+* spatial words for left, right
 words for frequency -- again, never, often, sometimes, rarely
     found: tenpo mute=many times, i.e. often
 ?passivity marker: a word which means the verb is being done TO the object (eg 'po')
     so 'pana' means give, 'po pana' means is given (receive)
     'utala' means attack, 'po utala' means is attacked
-shape, 
+shape,
     maybe some shape descriptive terms like flat, straight, curvy, pointy, squat, longthin
     found:
-pain, hurt
+* pain (n), hurt (v)
 metal
 hard/softness
     found: kiwen= hard object, metal, rock, stone
@@ -68,8 +70,7 @@ work
 co-operate/collaborate/work together (mitarbeiten)
 keep, stop, again
 stranger
-stone/ball/egg/round
-    found: sike=     circle, wheel, sphere, ball, cycle, round, cyclical
+
 sharp (as in knife)/spicy/sour/tangy
 
 Reinstated Words
@@ -79,6 +80,7 @@ Reinstated Words
 'leko' square, cube, block, square-shaped, cube-shaped
 'majuna' old, age
 'pasila' easy, simple, light (opposite of heavy)
+
 
 
 New Grammar-Words
@@ -131,13 +133,18 @@ If a syllable is at the beginning of a word, the consonant is optional
 (For example, ali and unpa don't begin with consonants).
 The optional n is forbidden if the next syllable begins with m or n."
 
+These rules produce over 6000 potential dual-syllable words;
+so why does Toki Pona (a language with ~120 words) even HAVE 3-syllable words?
+
 new rules: should all vowels in a word harmonise?
 should we remove all consonant clusters? (nanpa, unpa, tenpo, monsi, linja)
 
 Discarded Ideas
 ---------------
 
-colour, -coloured (so you can describe a colour using comparisons to other things)
-    there is already the word 'kule' which can be used as above
-new word for get/take/receive 'mete' -- instead use passivity marker with give
-    although this prevents us from using 'mete ike' as 'stealing'
+* colour, -coloured (so you can describe a colour using comparisons to other things)
+    - there is already the word 'kule' which can be used as above
+* new word for get/take/receive 'mete' -- instead use passivity marker with give
+    - although this prevents us from using 'mete ike' as 'stealing'
+* stone/ball/egg/round
+    - found: sike=     circle, wheel, sphere, ball, cycle, round, cyclical
