@@ -31,11 +31,17 @@ Word Definition Changes
 
 No conflation between size/height/importance, simplicity/good;
     remove the common human fallacy of spatial-social equality double-meanings
-* 'Suli':
-    * remove 'important' meaning from 'suli'. 
-        - Not all big things are important, not all small things aren't
-    * remove 'heavy' meaning from 'suli'
-        - rolling importance, size and weight into one word is a major source of confusion  
+### 'Suli':
+
+* new meanings: 
+*mod* big, tall, long, adult, important
+vt	enlarge, lengthen
+n	size
+* remove 'important' meaning from 'suli'. 
+    - Not all big things are important, not all small things aren't
+* remove 'heavy' meaning from 'suli'
+    - rolling importance, size and weight into one word is a major source of confusion  
+
 * remove 'simple' meaning from 'pona'
 * remove 'divine' meaning from 'sewi'
 * remove 'lower part' meaning from 'noka'. replace with 'noka pini' = leg ending
@@ -145,6 +151,12 @@ so why does Toki Pona (a language with ~120 words) even HAVE 3-syllable words?
 
 new rules: should all vowels in a word harmonise?
 should we remove all consonant clusters? (nanpa, unpa, tenpo, monsi, linja)
+
+Orthography
+----------
+
+* Map all words to Emojis
+* Map all words to Pokemon
 
 Discarded Ideas
 ---------------
