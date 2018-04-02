@@ -116,8 +116,10 @@ Word Name/Spelling Changes
     - selo/seli/sewi/suli/suwi
 * replace sina -> si
 * replace (namako, sin) -> nawa
-* replace false friend sitelen (means drawing/writing, not website) -> tesen 
-    - (from french 'dessin', but with a harmonised second vowel)
+* replace sitelen -> tesen
+    - from french 'dessin', but with a harmonised second vowel
+    - 'sitelen' is a false friend in English -- it means drawing/writing, not (web)site
+    - tesen is also shorter
 * shorten 'kepeken' -> 'usu' (from latin 'usus', and English 'use', with harmonised vowels)
 
 ### Phonic Space
