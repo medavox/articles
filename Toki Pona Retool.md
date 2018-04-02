@@ -61,11 +61,10 @@ New Words
 ---------
 * 'pusiki' important (from welsh bwysig)
 * proper comparatives:
-
-    more, ?molo
-    less 
-    (most? 
-    least?)
+    - 'molo' more
+    - less 
+    - (most? 
+    - least?)
 
 * how about a word for amount/intensity?
 * spatial words for left, right
