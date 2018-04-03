@@ -18,8 +18,11 @@ where it could potentially stumble into the role of an auxlang.
 But its extreme simplicity also limits its potential to communicate.
 In this role, it needs words for ideas that were previously left out or ignored.
 
-I'm retooling Toki Pona for this new purpose, 
+I'm retooling Toki Pona for this new purpose,
 hopefully without compromising its central philosophy too much.
+
+The goal of this offshoot is different from that of Toki Pona's -- 
+or at least different from its original goal.
 
 Its simplicity is its greatest strength; 
 but I think that its inability to express fundamental parts of human existence should be fixed.
