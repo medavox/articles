@@ -63,7 +63,7 @@ High != hierarchy
 ### Opinion on Toki Pona's Connotations
 
 Toki pona sometimes implies something is an objective truth when it's not; 
-I think it needs to indicate the subjectivity of human opinion more, in its choice of combined meanings.
+I think it needs to indicate the subjectivity of human opinion more, in its choice of the meanings combined into a single word.
 
 I also disagree with its conflation of ideas for size with importance, and its conflation of altitude with status.
 These are classic 'metaphors' in many human languages, but ones which I think damage objectivity.
@@ -72,8 +72,8 @@ Are miners of low status? are astronaut practically kings? Their altitude should
 It's hard to find examples that don't reinforce this trope, it turns out.
 People pay much more money for the top floor of a tall building.
 
-This isn't just toki pona's problem; it's a problem with human thought,
-probably caused by evolutionary psychological biases: those at the highest point have the best chance of spotting predators.  
+This isn't just Toki Pona's problem; it's a problem with human thought,
+probably caused by evolutionary psychological biases: in pre-history, those at the highest point had the best chance of spotting predators. This probably gave those with a genetically-predisposed preference for being higher up, a better chance of survival.
 
 New Words
 ---------
