@@ -60,6 +60,21 @@ High != hierarchy
     - why not 'sowelo moku suli' (hopefully meaning large food land-quadruped)?
 * remove 'humble', 'lowly', 'bowing down' meanings from anpa
 
+### Opinion on Toki Pona's Connotations
+
+Toki pona sometimes implies something is an objective truth when it's not; 
+I think it needs to indicate the subjectivity of human opinion more, in its choice of combined meanings.
+
+I also disagree with its conflation of ideas for size with importance, and its conflation of altitude with status.
+These are classic 'metaphors' in many human languages, but ones which I think damage objectivity.
+Are miners of low status? are astronaut practically kings? Their altitude shouldn't matter!
+
+It's hard to find examples that don't reinforce this trope, it turns out.
+People pay much more money for the top floor of a tall building.
+
+This isn't just toki pona's problem; it's a problem with human thought,
+probably caused by evolutionary psychological biases: those at the highest point have the best chance of spotting predators.  
+
 New Words
 ---------
 * 'pusiki' important (from welsh bwysig)
