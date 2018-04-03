@@ -79,6 +79,7 @@ metal
     found: 
 * hard/softness
     - found: kiwen= hard object, metal, rock, stone
+* soft, fluffy, gentle, gradual; (v) soften
 * 'opaka' heavy, difficult
 * help
 * work
