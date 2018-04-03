@@ -82,8 +82,9 @@ metal
 * soft, fluffy, gentle, gradual; (v) soften
 * 'opaka' heavy, difficult
 * help
-* work
-* co-operate/collaborate/work together (mitarbeiten)
+* free (costless/libre)
+* work, housework, chores,
+* together
 * keep, stop, again
 * stranger
 * sharp (as in knife)/spicy/sour/tangy
@@ -99,11 +100,13 @@ Reinstated Words
 New Grammar-Words
 -------------
 
-* question marker word - turns a statement into a question of whether the statement is so
+* question marker word - turns a statement into a question of whether the statement is so.
+   - a direct translation of the word would be 'is it that', or 'is the following true'
 * word meaning multiplier of next number word, so you can say 'four WORD twenty', 'five and twenty'
 * passivity marker? a word which means the verb is being done TO the object (eg 'po')
     so 'pana' means give, 'po pana' means is given (receive)
     'utala' means attack, 'po utala' means is attacked
+* conversion/transformation/application transitive verb? to make something <adjective>?
 
 Word Name/Spelling Changes
 --------------------------
@@ -116,16 +119,21 @@ Word Name/Spelling Changes
     - pan/pana
     - selo/seli/sewi/suli/suwi
 * replace sina -> si
+    - the word for 'you' is very common; it would be better if it was as short as possible.
 * replace (namako, sin) -> nawa
+    - 'sin' is too easily confused with 'sina' (now 'si'), and namako is now superfluous.
 * replace sitelen -> tesen
     - from french 'dessin', but with a harmonised second vowel
     - 'sitelen' is a false friend in English -- it means drawing/writing, not (web)site
     - tesen is also shorter
 * shorten 'kepeken' -> 'usu' (from latin 'usus', and English 'use', with harmonised vowels)
+    - 'kepeken' doesn't *sound* like a toki pona word to me. 
+    (maybe it has phonotactic rules that have emerged as a result of its vocabulary?)
+    - It's also quite long.
 
 ### Phonic Space
 
-I am not going to change the phonology;
+I will definitely not add to the phonology;
 I don't know enough about linguistic typology to choose new sounds
 (or new phonotactic rules) that are as easy for all humans to pronounce.
 
@@ -133,8 +141,8 @@ Instead, I'm merely using the raw material given to me
 by Toki Pona's phonology and phonotactics
 to construct new words.
 
-But in order to use that raw material, I need to know exactly what I have.
-So let's work out the possible sounds in Toki Pona.
+But in order to use that raw material well, I need to know exactly what it consists of.
+So let's work out the possible syllables in Toki Pona.
 
 9 consonants (j k l m n p s t w)
 5 vowels (a e i o u)
@@ -155,10 +163,12 @@ The optional n is forbidden if the next syllable begins with m or n."
 These rules produce over 6000 potential dual-syllable words;
 so why does Toki Pona (a language with ~120 words) even HAVE 3-syllable words?
 
-### New Phonotactic Rules
+### New Phonotactic Provisional Rules
 
 * should all vowels in a word harmonise?
 * should all consonant clusters be removed? (nanpa, unpa, tenpo, monsi, linja)
+* remove one of the nasal sounds?
+    - they can be hard to distinguish from each other
 
 Orthography
 ----------
@@ -175,3 +185,5 @@ Discarded Ideas
     - although this prevents us from using 'mete ike' as 'stealing'
 * stone/ball/egg/round
     - found: 'sike' circle, wheel, sphere, ball, cycle, round, cyclical
+* co-operate/collaborate/work together (mitarbeiten)
+    - just use 'work together', if those words are added
