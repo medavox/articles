@@ -31,3 +31,11 @@ stackoverflow.com##.js-dismissable-hero
 
 ! 7/13/2018, 10:22:40 PM
 stackexchange.com###js-gdpr-consent-banner
+
+!old rules (maybe obsolete),but a god list of SO-family sites
+stackoverflow.com###hero-content
+stackexchange.com###hero-content
+askubuntu.com###hero-content
+superuser.com###hero-content
+mathoverflow.net###hero-content
+serverfault.com###hero-content
