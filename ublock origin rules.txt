@@ -1,0 +1,33 @@
+! 9/2/2018, 10:54:23 AM
+www.quora.com##div.UnifiedAnswerPagedList:has(div:has-text( ad  by ))
+www.quora.com##div.pagedlist_item:has(div:has-text( promoted  by ))
+www.quora.com##div.pagedlist_item:has(div.logged_out_related_questions_container)
+
+! 8/16/2018, 2:30:26 PM
+newatlas.com##div>div>div>div>div>span>a:has-text(Continue this time)
+
+! 8/1/2018, 4:42:46 PM
+gitlab.com##li:has-text(Enable Auto DevOps)
+! 6/28/2018, 3:09:27 PM
+gitlab.com##.js-autodevops-banner
+! 8/1/2018, 4:43:09 PM
+gitlab.com##li:has-text(Add Kubernetes cluster)
+
+! 7/27/2018, 5:34:08 PM
+www.instagram.com##section:has(>div:has(>div:has(>span:has(>div:has-text(Log In to Instagram)))))
+
+!perfect rules
+tabs.ultimate-guitar.com##.ZAH4R,.js-tab-pro-tools
+ultimate-guitar.com##span:has-text(/upgrade to pro/i)
+ultimate-guitar.com##bidding-wrapper
+tabs.ultimate-guitar.com##div:has(>a[href^="https://www.ultimate-guitar.com/pro"])
+
+! 7/11/2018, 1:15:39 PM
+vimeo.com##.gdpr_banner
+
+! 7/14/2018, 3:38:00 PM
+stackoverflow.com##.js-dismissable-hero
+
+
+! 7/13/2018, 10:22:40 PM
+stackexchange.com###js-gdpr-consent-banner
