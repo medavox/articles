@@ -1,6 +1,8 @@
 Music I'm into
 ============
 
+
+
 Retroactively compiled in October 2018.
 
 Most recent entries first.
@@ -8,6 +10,26 @@ Most recent entries first.
 
 October 2018
 ===========
+
+Radio 1 Ibiza Prom
+-------
+
+a brilliantly performed collection of 'safe' BBC-friendly dance classics - fat boy slim etc
+
+YouTube User Vincent MT - Composition No 3
+-----
+
+Molly Nilsgren - new wave super retro 80s, but in that obviously very current way.
+Most active in 2015, so maybe a bit of a trendsetter? (or maybe I just missed the start)
+
+half.alive
+---------
+
+super-polished, super-slick, super-commercialised electronic pop-funk.
+
+You can practically feel the california ideology and apple products sublimating off them.
+
+haha "looks like an urban outfitters commercial"
 
 Grauzone
 -------
@@ -279,6 +301,11 @@ The OneUps - Koopa Beach
 
 A fantastic jazz cover.
 
+Atoms For Peace
+-----
+
+Thom Yorke, Nigel Godrich, Flea.
+
 
 January 2018
 ===========
@@ -307,11 +334,17 @@ Scored the Chrono games. Really musically interesting style, very serene but mys
 October 2017
 ===========
 
-Michael Haggins - Daybreak
-----------------------
+(more Smooth McGroove, esp. his many Undertale covers)
 
-That 'hold music' song from Community, when they ran out of music budget after licensing ABBA.
-. It's so good though! who cares if it's stock!?
+Songs from Community
+--------
+
+* Michael Haggins - Daybreak
+    - That 'hold music' song from Community, when they ran out of music budget after licensing ABBA.
+    - It's so good though! who cares if it's stock!?
+* Ben Folds - The Ass-Crack Bandit
+* The 88 - At Least It Was Here
+* Ludwig Göransson - Greendale Is Where I Belong (he's also Childish Gambino's producer!)
 
 Joe Hisaishi - Music of the Celestial Beings
 ----------
@@ -319,8 +352,210 @@ Joe Hisaishi - Music of the Celestial Beings
 The end song from the film, "The Tale of Princess Kaguya"
 
 
+August 2017
+=======
+
+Spencer Davis Group - Gimme Some Lovin'
+-----------
+
+That awesome driving grooving song from the Blues Brothers.
+
+The band (Spencer Davis Group) is actually a bit of a forgotten pride of Britain. More awesome music!
+
+Another song: Keep on Running (you'll recognise it!)
+
+
+July 2017
+=========
+
+Investigating the Careers of the Members of Hot Freaks, before and after it
+--------
+
+* Vicious vicious - ho baby
+* SPEARZ - joke britney cover band by (i think) 2 of the members
+* Night Moves - 60s/70s rock/soul. May contain Hot Freaks' guitarist.
+    - similar to Tame Impala imho
+    - Their song 'Colored Emotions' is a smasher.
+
+
+Ryuichi Sakamoto (Trio?)
+--------
+
+He also wrote 'Merry Christmas, Mr Lawrence'
+
+### Song: Rain
+
+Oh my god, when I relistened to this just now (30 October 2018) it went straight to my soul.
+
+Contemporary japanese, mostly classical instruments. May be from a JRPG.
+
+Full of feeling.
+
 June 2017
-====
+========
+
+listened to  old favourites:
+* Hello Seahorse!
+* Smooth McGroove
+* Hot Freaks
+
+Checked out Brand New. I can't remember their sound now (30 October 2018),
+so they can't have made that much of an impression.
+
+Giles Corey
+--------
+
+Depressing postrock about suicide, as far as I can tell.
+
+May 2017
+======
+
+(What little time I wasn't still listening to and investigating RHCP's hidden gems):
+
+Invesigated 19th century propaganda music & national anthems:
+
+* Land of Hope and Glory
+* God Save The Tsar!
+* Coronation Anthem - Zadok The Priest
+
+April 2017
+=========
+
+Discovered an entire album's worth of songs from RHCP's BTW recording sessions.
+Such a gift. Truly made my month. No, 3 months.
+
+After discovering this, also found that there is a fan remaster of californication,
+which sounds a lot better than the clipped shit on the CD.
+
+Couple that with a tracklist amendment by me, and I've basically
+had a 2-album drop of new Red Hot Chili Peppers songs from (what is for me) their golden age.
+
+YUSSSSSSS
+
+Musically, this (nearly) occupied the rest of the month, along with searching for good songs
+from other recording sessions, and checking an obscure wiki for lists of unpublished songs.
+
+Radiohead
+---------
+
+### Album: Moon Shaped Pool
+
+Discovering new shit from **my** version of the RHCP, I decided to go looking for other unheard stuff
+from my favourite bands. Discovered this album from Radiohead.
+
+
+
+The end song from the film, "The Tale of Princess Kaguya"
+
+March 2017
+=========
+
+(Still listening to Wardruna, Porter Robinson)
+
+silly shit
+--------
+
+* Tongo - Chop Suey
+* CEREAL FOR HUMAN
+* Don't stomp by youtube user PilotRedSun
+
+
+Classical Stuff
+--------------
+
+* Profokiev - dance of the Knights
+* Bizet - Carmen
+* Offenbach  - Can Can
+
+
+
+February 2017
+============
+
+Porter Robinson
+---------
+
+Synth electronic artist with that chill GTA5 sound.
+Rather chiptuney too. So very good.
+
+Just noticedone song has an Anamanaguchi remix, so definitely chiptune-related.
+
+Later turned out a LOT of his sound might have come from the songs (and more generally the genre) he 'sampled'
+(namely, 80s japanese pop).
+
+Madeon
+------
+
+The suggestions include M83, which I think is appropriate for both this and Porter Robinson.
+
+Seem to be part of the crest of a wave of great synth which earlier included M83.
+
+Vanilla
+------
+
+Esp. album 'Origin'.
+
+More of that chill synth stuff.
+
+It's got those panpipes in it that make it sound like an actual one of those hippie chillout tapes
+(that your mum and dad played on long holiday drives & days out in the Sierra)
+
+Deru
+----
+
+Sad slow synth songs. Reminds me of Lavender Town and UNKLE. But more ambient. Desolate.
+
+--------
+
+Songs from the Les Misérables Musical
+-----------------------------
+
+* Do you hear the people sing
+* Red & Black
+
+Songs from Steven Universe
+-------------------------
+
+* It's over (isn't it)
+* love me like you
+
+------
+
+Third Eye Blind - Can I Graduate
+----------
+
+Exposed to by the Guitar Hero games, but this one song of theirs paints this
+story of a vulnerable young man trying to get his life back together.
+
+Buttering Trio
+------------
+
+Smooth Israeli funk/jazz/new wave/trip-ho
+
+KerenDun
+-------
+
+More trip hoppy stuff. Probably from related videos to Buttering Trio.
+
+Loses points for teasing nudity as virality booster in video.
+
+Play Dead
+---------
+
+80s subculture rock band: "played alongside contemporaries such as Nick Cave & The Bad Seeds,
+Killing Joke and the Chameleons,
+but sadly never quite managed the same levels of success as them".
+
+also PlayDead
+-----------
+
+on bandcamp! https://pladead.bandcamp.com/ - synths n shit
+
+Sounds a bit like a clever fuckboy imitating radiohead's experimental electronic side.
+
+
+January 2017
+============
 
 Coccolino Deep
 -------------
@@ -342,6 +577,11 @@ Exist Strategy
 
 Post-Rock, I think. Found it in the archives.
 
+Chicago - 25 or 6 to 4
+----------------------
+
+An old favourite song of mine.
+
 
 November 2016
 ============
@@ -351,6 +591,21 @@ Bill Wurtz
 
 Super-weird Youtuber who also makes super-technical jazz-funk-fusion (in the japanese style)
 with nonsense lyrics
+
+The Police
+----------
+
+Comparing their live performances in 1983 and a reunion tour in 2008
+
+Faun
+-----
+
+German metal-looking celtic-folk.
+
+Maybe a bit socially conservative,
+but I can't understand the german well enough to tell just how much they want women back in the kitchen. 
+
+So it's fine??
 
 
 October 2016
@@ -365,6 +620,35 @@ Godspeed You! Black Emperor
 -----------------------
 
 Classic Post-Rock
+
+
+Procol Harum - A Whiter Shade of Pale
+---------
+
+Absolute. Classic.
+
+
+Schlager
+-------
+
+German music; sort of a cross between knees-up folk songs and whatever genre Steps is. Eurodance?
+
+Music to spill beer to.
+
+Artists include:
+
+* Beatrice Egli (Mein Herz es brennt)
+* Gina - (Zwillingstern)
+* Vanessa Mai (Ich sterb für dich)
+* Andreas Gabalier (I sing a Liad für Di) (swiss german or something)
+
+September 2016
+==============
+
+Oh Wonder
+---------
+
+Jose Vanders finally got famous.
 
 
 Rest of 2016
@@ -455,6 +739,11 @@ Active Child
 ------------
 
 Expansive Electronic Soul Dream
+
+Animal Collective
+----------------
+
+Esp. the album Merriweather Post Pavilion
 
 Grimes
 ------
