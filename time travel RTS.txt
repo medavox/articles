@@ -1,0 +1,15 @@
+time travel RTS
+you don't control your empire in real time, but rather make precision strikes at points in the past,
+in order to affect the future outcome.
+the amount you can move through time is limited by a resource, 
+which your empire needs to harvest for you
+
+changes propagate through time, so the future will be instantly affected once you've changed the past.
+The timeline in the game is 'actual time' in the game,
+the timeline of the players playing the game is 'metatime'
+
+story-wise, the players are Gods/time-travellers (depending on your perspective)
+waging a war against each other, trying to recreate their home timeline.
+
+maybe instead of an RTS, you actually play from a single person's perspective, 
+and alter 'small' interactions: kill someone, break something...
