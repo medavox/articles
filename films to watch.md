@@ -1,124 +1,92 @@
-```
-Gone Girl
-Redirected
-If I stay
-Earth To Echo
-Don Jon
-Out of The Furnace
-Grown Ups 2
-A.C.O.D.
-Wreck-it Ralph
-Upside Down (2012)
-Anna Karenina (2012)
-Robot & Frank
-Nightcrawler
-Big Hero 6
-Science Team
-All The Wilderness
-Leading Lady
-Red Without Blue
-Scintilla (2014)
-X/Y (2014)
-frank (2014)
-
-
-Absolutely Anything
-High-Rise
-Z For Zachariah
-Air
-The Lobster
 400 Days
-Monsters
-The Cosmonaut
-Timecrimes
-Byzantium
-Safety Not Guaranteed
-La Jetée (1962)
-Thirst (2009)
-Queen of the Mountains (2014) "Kurmanjan datka" 
-
-
-
-
-dil chahta hai
-Refuge
-Another Me
-Rudderless
-Le métis de dieu
-Love
-I Origins
-Chronicle
-Attack the Block
 A Dark Matter
-Radio Free Albemuth
+A.C.O.D.
+Absolutely Anything
+Air
+All The Wilderness
+Anna Karenina (2012)
+Another Me
+Apollo 18 (2011)
+Attack the Block
 Automata
+Boyhood
+Byzantium
+Chronicle
+Don Jon
+Earth To Echo
 Enemy
-Exam
-Inland Empire
-Never Let Me Go
 Europa Report
-The Signal
+Exam
+Grown Ups 2
+High-Rise
+If I stay
+Inland Empire
+La Jetée (1962)
+Le métis de dieu
+Leading Lady
+Love
+Monsters
+Never Let Me Go
+Nightcrawler
+Out of The Furnace
 Predestination
-
-zodiac (2007)
-house of cards (2013)
-chatroom (2010) dir. hideo nakata
-disconnect
-director satoshi kon
-slaughterhouse 5
-ran (kurosawa)
-yojimbo
-we need to talk about kevin
-drive (2011) with carey mulligan
-the impostor (2012)
-mother (2009)
-paths of glory (kubrick)
-
-snowpiercer                     ===
-frank (2014)
-Boyhood                         ===
-The Machine (Ex Machina?)       ===
+Radio Free Albemuth
+Red Without Blue
+Redirected
+Refuge
+Robot & Frank
+Rudderless
+Safety Not Guaranteed
+Science Team
+Scintilla (2014)
+The Cosmonaut
 The Secret of Kells             -didn;t finish
+The Signal
+The Theory of Everything
+Thirst (2009)
+Timecrimes
+Upside Down (2012)
+X/Y (2014)
+Z For Zachariah
+Chatroom (2010) dir. hideo nakata
+Dil Chahta Hai
+director satoshi kon
+Disconnect
+Drive (2011) with carey mulligan
+House of Cards (2013)
+Mother (2009)
+Paths of Glory (kubrick)
+Ran (kurosawa)
+Slaughterhouse 5
+The Impostor (2012)
+We Need to Talk About Kevin
+Yojimbo
+Zodiac (2007)
 
 ---- WATCHED ----
+Riddick
+Gone Girl
+The Lobster
+Big Hero 6
+The Giver
+Horns
+Little England (Mikra Anglia) (2013)
+Big Hero 6
+Wreck-it Ralph
+Queen of the Mountains (2014) "Kurmanjan datka" 
+I Origins
+frank (2014)
+The Machine (Ex Machina?)
+Snowpiercer
 Boyhood (12-year epic)
 Ex Machina (paid! odeon)
 Kick-Ass 2
-Jupiter AScending (AAA)
+Jupiter Ascending
 Lucid (2013) - weird as fuuu
 Riddick
 Horns
 The Theory of Everything
 The Machine (Ex Machina?)
-
-Horns
-Gone Girl
-Redirected
-The Giver
-If I stay
-Earth To Echo
-Don Jon
-Out of The Furnace
-Grown Ups 2
-The Theory of Everything    ---
-Kick-Ass 2                  ---
-A.C.O.D.
-Riddick                     ---
-Wreck-it Ralph
-Upside Down (2012)
-Anna Karenina (2012)
-Apollo 18 (2011)
-Robot & Frank
-Lucid (2013)
-Nightcrawler
-Big Hero 6
-Science Team
-All The Wilderness
-Leading Lady
-Red Without Blue
-Scintilla (2014)
-X/Y (2014)
-Little England (Mikra Anglia) (2013)    ---
 
 
 ```
