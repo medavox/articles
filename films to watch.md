@@ -62,6 +62,10 @@ The Impostor (2012)
 We Need to Talk About Kevin
 Yojimbo
 Zodiac (2007)
+Soft Top Hard Shoulder
+Comfort and Joy (1984)
+Strictly Sinatra (2001)
+American Cousins (2003)
 
 ---- WATCHED ----
 Riddick
