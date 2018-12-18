@@ -7,6 +7,44 @@ Retroactively compiled in October 2018.
 
 Most recent entries first.
 
+December 2018
+=============
+
+Young Scum
+----------
+
+Delicious indie pop with that Decemberists New England Aesthete autotune voice.
+So good!
+
+Jazz, and maybe some Funk
+----
+
+* John Coltrane
+* Herbie Hancock
+
+Yeah jazz!
+
+November 2018
+=============
+
+Realising some of my Joy Division tastes actually encroach into full Goth territory,
+I decided to jump down the rabbit hole with both legs (?) and try the really 'gothy' stuff.
+
+This appears to be called 'Darkwave'.
+
+Bands include:-
+
+* Molly Nilssen
+* The Frozenv Autumn
+* Pleasure Symbols
+
+I also have been listening to Psychedelic Rock, including:
+
+* King Gizzard & The Lizard Wizard
+    - (and their million or so recorded albums)
+* The Re-Stoned
+* My Sleeping Karma
+
 
 October 2018
 ===========
@@ -14,7 +52,7 @@ October 2018
 Radio 1 Ibiza Prom
 -------
 
-a brilliantly performed collection of 'safe' BBC-friendly dance classics - fat boy slim etc
+a brilliantly-performed collection of 'safe' BBC-friendly dance classics - fat boy slim etc
 
 YouTube User Vincent MT - Composition No 3
 -----
