@@ -87,4 +87,10 @@ Also, zombies exist culturally, allowing meta discussion and people implementing
 There is a question as to whether something of the self survives. Actual symptoms of being a zombie vary,
 and can be as mild as that of a strung-out meth head
 
+-------
+
+The zombies are just normal humans whose instinctive aversion to cannibalism is replaced by a taste for long pig. They start out looking like normal people who talk and think, but an explosion of meat-borne diseases has left most of them with pretty bad variations of CJD.
+
+Early groups of cannibals tried to work together to capture more human meat, but often fell victim to infighting (and in-eating).
+
 %tags: stories,ideas,scifi
