@@ -1,14 +1,14 @@
-54% Plain Flour
-Between slightly less than 30%, and 16% Vegetable Oil (Palm Oil)
-16% Wholemeal Plain Flour
-<16% Sugar
-<<16% Partially Inverted Sugar Syrup (Honey is very similar, apparently)
-Raising Agents 
-	Sodium Bicarbonate (Bicarb of Soda)
-	Malic Acid			(Present in Wine, Apples; Main flavourant of Rhubarb)
-	Ammonium Bicarbonate (Apparently can be substituted for Baking Powder)
-Salt
-Dried Skimmed Milk (Milk Powder)
+* 54% Plain Flour
+* Between slightly less than 30%, and 16% Vegetable Oil (Palm Oil)
+* 16% Wholemeal Plain Flour
+* <16% Sugar
+* <<16% Partially Inverted Sugar Syrup (Honey is very similar, apparently)
+* Raising Agents
+    - Sodium Bicarbonate (Bicarb of Soda)
+    - Malic Acid			(Present in Wine, Apples; Main flavourant of Rhubarb)
+    - Ammonium Bicarbonate (Apparently can be substituted for Baking Powder)
+* Salt
+* Dried Skimmed Milk (Milk Powder)
 	
 So for a 500g mixture:
 
