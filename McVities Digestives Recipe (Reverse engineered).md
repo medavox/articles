@@ -14,7 +14,7 @@ So for a 500g mixture:
 
 MASTER RECIPE
 =============
-
+```
 270g Plain Flour
 80g Wholemeal Plain Flour
 120-140g Vegetable Oil	
@@ -25,11 +25,11 @@ MASTER RECIPE
 Malic Acid??
 1tsp Salt
 ?tsp Dried Skimmed Milk
-
+```
 
 BATCH 1 RECIPE
 ==============
-
+```
 135g Plain Flour
 135g Vegetable Oil
 80g (40?) Wholemeal Plain Flour
@@ -40,7 +40,7 @@ BATCH 1 RECIPE
 Malic Acid??
 1tsp Salt
 2tsp=5g Dried Skimmed Milk
-
+```
 BATCH 1 RESULTS
 ==============
 
@@ -71,7 +71,7 @@ NEXT TIME
 	
 BATCH 2 RECIPE
 ==============
-
+```
 270g Plain Flour
 80g Wholemeal Plain Flour
 120G Fake Butter
@@ -84,5 +84,5 @@ Malic Acid??
 1/2tsp Salt
 2tsp=5g Dried Skimmed Milk
 ~1tbsp Milk
-
+```
 %tags: recipes
