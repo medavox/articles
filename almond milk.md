@@ -25,9 +25,9 @@ About 2 days (unattended) prep,<br />
 
 
 1. Skin the almonds, to make the resulting milk less bitter and gritty. Current results indicate that skins make up about 10% of the total weight.
-* Put the almonds in a mixing bowl. Cover with boiling water, then leave to soak for 5 minutes.
-* Drain from boiling water, then rinse with cold water.
-* Pop them out of their skins by squeezing them. Careful you don't drop them them, they're slippery like soap!
+    * Put the almonds in a mixing bowl. Cover with boiling water, then leave to soak for 5 minutes.
+    * Drain from boiling water, then rinse with cold water.
+    * Pop them out of their skins by squeezing them. Careful you don't drop them them, they're slippery like soap!
 2.  Leave to soak "overnight, or up to 2 days" (Haven't played around with this value enough myself yet). If almonds are anything like Hazelnuts, then this wil help to remove toxic Phytin from the nuts (which gives you a stomach ache if you eat too many raw nuts). "The longer the almonds soak, the creamier the almond milk."
 3.  Drain them of their soaking water, then rinse them thoroughly under cold water. "At this point, the almonds should feel a little squishy if you pinch them." "Toast for a richer flavour."
 4.  Toast the wet, soaked almonds in the oven on about 150C (320F) until dry and very slightly golden brown.
