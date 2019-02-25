@@ -1,11 +1,40 @@
 Music I'm into
 ============
 
-
-
 Retroactively compiled in October 2018.
 
 Most recent entries first.
+
+
+February 2019
+======
+
+### last week
+
+Discovered that the helsman from The Orville, Scott Grimes, is a talented soft-rock singer!
+So been listening to his stuff out of surprise, interest and because he's genuinely good.
+
+### Middle Weeks
+
+Listening to a lot of classical music, particularly Opera; particularly Verdi and Rossini.
+But also:-
+
+* Habanera from Carmen
+* Smetana - Moldau . A song I had in my head for several years as a child.
+* Funiculi Funicular - that pizza song from Spider-man 2. Almost offensive in its cartoonishly Italian-ness.
+* O mio babbino caro - typically beautiful Italian aria.
+
+January 2019
+===========
+
+A lot of Japanese City-pop, particularly Tatsuro Yamashita (and his more famous wife, 
+Mariya Takeuchi)
+
+Also some more 70s Turkish pop, such as 
+* Barış Manço
+* Erkin Koray
+
+Some weird shit, like microtonal music from `sevishmusic`, and King Gizzard et al.
 
 December 2018
 =============
