@@ -23,6 +23,8 @@ But also:-
 * Smetana - Moldau . A song I had in my head for several years as a child.
 * Funiculi Funicular - that pizza song from Spider-man 2. Almost offensive in its cartoonishly Italian-ness.
 * O mio babbino caro - typically beautiful Italian aria.
+* Barcarolle "Belle nuit, o nuit d'amour" by Jacques Offenbach from The Tales of Hoffmann
+    - the song from the Synchronised Swimming scene in "Hail, Caesar"!
 
 January 2019
 ===========
