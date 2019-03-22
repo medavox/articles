@@ -5,13 +5,23 @@ Retroactively compiled in October 2018.
 
 Most recent entries first.
 
+March 2019
+=========
+
+### Week 3
+
+Bought the albums of Young Scum & Hot Freaks that I love so much, Through bandcamp.
+
+Rediscovered Geographer, who has a load of new material (also on Bandcamp), 
+since it's been a few years.
+
 
 February 2019
 ======
 
 ### last week
 
-Discovered that the helsman from The Orville, Scott Grimes, is a talented soft-rock singer!
+Discovered that the helmsman from The Orville, Scott Grimes, is a talented soft-rock singer!
 So been listening to his stuff out of surprise, interest and because he's genuinely good.
 
 ### Middle Weeks
@@ -25,6 +35,7 @@ But also:-
 * O mio babbino caro - typically beautiful Italian aria.
 * Barcarolle "Belle nuit, o nuit d'amour" by Jacques Offenbach from The Tales of Hoffmann
     - the song from the Synchronised Swimming scene in "Hail, Caesar"!
+* J.S. Bach - Prelude in C Major
 
 January 2019
 ===========
@@ -66,7 +77,8 @@ This appears to be called 'Darkwave'.
 Bands include:-
 
 * Molly Nilssen
-* The Frozenv Autumn
+* The Frozen Autumn
+* Linea Aspera
 * Pleasure Symbols
 
 I also have been listening to Psychedelic Rock, including:
