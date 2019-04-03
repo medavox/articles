@@ -5,6 +5,38 @@ Retroactively compiled in October 2018.
 
 Most recent entries first.
 
+April 2019
+=======
+
+### First week
+
+After clicking around after Daft Punk's Robot Rock (also a super song!),
+
+Discovered a friggin' amazin' new electronic artist:
+
+French 79
+-----
+
+I presume they are (maybe just he is?) actually French, though maybe Belgian.
+I saw that they're playing in Liège, so.
+
+Mostly instrumental. Would fit well with the V A P O R W A V E crowd,
+though I personally feel his sound has a bit more substance to it than the average compilation I've heard.
+
+March 2019
+
+### middle weeks
+
+Hitting Marina And The Diamonds hard, in anticipation of her new album coming out next month.
+Listened to her last album (2015's FROOT) for the FIRST TIME!
+
+It _is_ a different experience than the previous two, but that's called artistic growth!
+
+I like it now, and I what I've heard so far from the new album
+(although I think Orange Tree is trying a little too hard to be radio friendly,
+with its autotune chorus)
+
+
 
 February 2019
 ======
