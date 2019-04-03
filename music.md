@@ -24,6 +24,7 @@ Mostly instrumental. Would fit well with the V A P O R W A V E crowd,
 though I personally feel his sound has a bit more substance to it than the average compilation I've heard.
 
 March 2019
+=====
 
 ### middle weeks
 
@@ -96,7 +97,7 @@ This appears to be called 'Darkwave'.
 Bands include:-
 
 * Molly Nilssen
-* The Frozenv Autumn
+* The Frozen Autumn
 * Pleasure Symbols
 
 I also have been listening to Psychedelic Rock, including:
