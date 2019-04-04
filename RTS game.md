@@ -61,14 +61,14 @@ Military
 * Operates in two modes: peace-time and war-time
 * alternatively, allies and enemies
 
-###War-Time
+### War-Time
 
 * Manufactures units using the funds assigned to them by Finance
 * Builds armaments & defensive structures, in locations agreed with Civic
 * Designs and improvements for both are provided by R&D -- AKA Science
 * Organises strategy and placement of units & defenses
 
-###Peace-Time
+### Peace-Time
 
 * Trade (or finance?)
 * Diplomacy
