@@ -5,6 +5,33 @@ Retroactively compiled in October 2018.
 
 Most recent entries first.
 
+Any weeks without entries, I've probably been listening to old stuff.
+
+May 2018
+========
+
+### Middle Weeks
+
+Album "Slow Air" by Still Corners
+-------------
+
+A really chill, sensual relaxing album that still has some musical movement.
+
+Sounds like exploration of natural wonders, beautiful waterfall scenes,
+and good for sexy times.
+Sort of like The XX, but with more guitars and only a female singer.
+Second half of the album is developing some serious M83 overtones.
+
+### First Week
+
+YouTube channel "Elif'in Hecesi"
+------
+
+Spiritual-sounding acoustic world music, esp. Turkish and Islamic temperament sounding. 
+Very atmospheric track by various artists.
+Brotherhood of peace among all peoples, Gaia the World Spirit, etc.
+
+
 April 2019
 =======
 
@@ -336,6 +363,11 @@ https://oranicuhh.bandcamp.com
 
 June 2018
 ========
+
+The Spencer Davis Group
+------
+
+60s blues rock that I associate with the Blues Brothers.
 
 Kyle Athayde
 -----------
@@ -807,6 +839,13 @@ Thee Oh Sees
 
 Twitchy, awkward, Punky fast rock with that 2010s late 60s early 70s flavour. Energetic.
 Going for a surprisingly long time!
+
+Tolkien Ensemble
+---------------
+
+Danish group (sort of a cross between a small orchestra and a folk band), writing and performing music to accompany the lyrics of songs from the Lord of The Rings books.
+
+Best Song: The Old Walking Song
 
 
 2014
