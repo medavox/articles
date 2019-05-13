@@ -133,10 +133,7 @@ Bands include:-
 
 * Molly Nilssen
 * The Frozen Autumn
-<<<<<<< HEAD
 * Linea Aspera
-=======
->>>>>>> 91cdc13dbf348d5e873fd7a6ffee2894b5dfff7b
 * Pleasure Symbols
 
 I also have been listening to Psychedelic Rock, including:
@@ -493,7 +490,7 @@ Songs from Community
 Joe Hisaishi - Music of the Celestial Beings
 ----------
 
-The end song from the film, "The Tale of Princess Kaguya"
+The end song from the film, "The Tale of Princess Kaguya". The saddest happy song.
 
 
 August 2017
@@ -529,7 +526,7 @@ He also wrote 'Merry Christmas, Mr Lawrence'
 
 ### Song: Rain
 
-Oh my god, when I relistened to this just now (30 October 2018) it went straight to my soul.
+Oh my god, when I relistened to this just now (30 October 2018) and it went straight to my soul.
 
 Contemporary japanese, mostly classical instruments. May be from a JRPG.
 
@@ -556,7 +553,7 @@ May 2017
 
 (What little time I wasn't still listening to and investigating RHCP's hidden gems):
 
-Invesigated 19th century propaganda music & national anthems:
+Investigated 19th century propaganda music & national anthems:
 
 * Land of Hope and Glory
 * God Save The Tsar!
@@ -622,7 +619,7 @@ Porter Robinson
 Synth electronic artist with that chill GTA5 sound.
 Rather chiptuney too. So very good.
 
-Just noticedone song has an Anamanaguchi remix, so definitely chiptune-related.
+Just noticed one song has an Anamanaguchi remix, so definitely chiptune-related.
 
 Later turned out a LOT of his sound might have come from the songs (and more generally the genre) he 'sampled'
 (namely, 80s japanese pop).
@@ -693,7 +690,7 @@ but sadly never quite managed the same levels of success as them".
 also PlayDead
 -----------
 
-on bandcamp! https://pladead.bandcamp.com/ - synths n shit
+on bandcamp! https://playdead.bandcamp.com/ - synths n shit
 
 Sounds a bit like a clever fuckboy imitating radiohead's experimental electronic side.
 
@@ -775,7 +772,7 @@ Absolute. Classic.
 Schlager
 -------
 
-German music; sort of a cross between knees-up folk songs and whatever genre Steps is. Eurodance?
+German 'folk' music; sort of a cross between knees-up folk songs and whatever genre Steps is. Eurodance?
 
 Music to spill beer to.
 
