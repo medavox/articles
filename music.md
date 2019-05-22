@@ -5,6 +5,33 @@ Retroactively compiled in October 2018.
 
 Most recent entries first.
 
+Any weeks without entries, I've probably been listening to old stuff.
+
+May 2018
+========
+
+### Middle Weeks
+
+Album "Slow Air" by Still Corners
+-------------
+
+A really chill, sensual relaxing album that still has some musical movement.
+
+Sounds like exploration of natural wonders, beautiful waterfall scenes,
+and good for sexy times.
+Sort of like The XX, but with more guitars and only a female singer.
+Second half of the album is developing some serious M83 overtones.
+
+### First Week
+
+YouTube channel "Elif'in Hecesi"
+------
+
+Spiritual-sounding acoustic world music, esp. Turkish and Islamic temperament sounding. 
+Very atmospheric track by various artists.
+Brotherhood of peace among all peoples, Gaia the World Spirit, etc.
+
+
 April 2019
 =======
 
@@ -26,7 +53,7 @@ though I personally feel his sound has a bit more substance to it than the avera
 March 2019
 =====
 
-### middle weeks
+### Week 4
 
 Hitting Marina And The Diamonds hard, in anticipation of her new album coming out next month.
 Listened to her last album (2015's FROOT) for the FIRST TIME!
@@ -37,14 +64,19 @@ I like it now, and I what I've heard so far from the new album
 (although I think Orange Tree is trying a little too hard to be radio friendly,
 with its autotune chorus)
 
+### Week 3
 
+Bought the albums of Young Scum & Hot Freaks that I love so much, Through Bandcamp.
+
+Rediscovered Geographer, who has a load of new material (also on Bandcamp), 
+since it's been a few years.
 
 February 2019
 ======
 
 ### last week
 
-Discovered that the helsman from The Orville, Scott Grimes, is a talented soft-rock singer!
+Discovered that the helmsman from The Orville, Scott Grimes, is a talented soft-rock singer!
 So been listening to his stuff out of surprise, interest and because he's genuinely good.
 
 ### Middle Weeks
@@ -56,6 +88,9 @@ But also:-
 * Smetana - Moldau . A song I had in my head for several years as a child.
 * Funiculi Funicular - that pizza song from Spider-man 2. Almost offensive in its cartoonishly Italian-ness.
 * O mio babbino caro - typically beautiful Italian aria.
+* Barcarolle "Belle nuit, o nuit d'amour" by Jacques Offenbach from The Tales of Hoffmann
+    - the song from the Synchronised Swimming scene in "Hail, Caesar"!
+* J.S. Bach - Prelude in C Major
 
 January 2019
 ===========
@@ -98,6 +133,7 @@ Bands include:-
 
 * Molly Nilssen
 * The Frozen Autumn
+* Linea Aspera
 * Pleasure Symbols
 
 I also have been listening to Psychedelic Rock, including:
@@ -325,6 +361,11 @@ https://oranicuhh.bandcamp.com
 June 2018
 ========
 
+The Spencer Davis Group
+------
+
+60s blues rock that I associate with the Blues Brothers.
+
 Kyle Athayde
 -----------
 
@@ -449,7 +490,7 @@ Songs from Community
 Joe Hisaishi - Music of the Celestial Beings
 ----------
 
-The end song from the film, "The Tale of Princess Kaguya"
+The end song from the film, "The Tale of Princess Kaguya". The saddest happy song.
 
 
 August 2017
@@ -485,7 +526,7 @@ He also wrote 'Merry Christmas, Mr Lawrence'
 
 ### Song: Rain
 
-Oh my god, when I relistened to this just now (30 October 2018) it went straight to my soul.
+Oh my god, when I relistened to this just now (30 October 2018) and it went straight to my soul.
 
 Contemporary japanese, mostly classical instruments. May be from a JRPG.
 
@@ -512,7 +553,7 @@ May 2017
 
 (What little time I wasn't still listening to and investigating RHCP's hidden gems):
 
-Invesigated 19th century propaganda music & national anthems:
+Investigated 19th century propaganda music & national anthems:
 
 * Land of Hope and Glory
 * God Save The Tsar!
@@ -578,7 +619,7 @@ Porter Robinson
 Synth electronic artist with that chill GTA5 sound.
 Rather chiptuney too. So very good.
 
-Just noticedone song has an Anamanaguchi remix, so definitely chiptune-related.
+Just noticed one song has an Anamanaguchi remix, so definitely chiptune-related.
 
 Later turned out a LOT of his sound might have come from the songs (and more generally the genre) he 'sampled'
 (namely, 80s japanese pop).
@@ -649,7 +690,7 @@ but sadly never quite managed the same levels of success as them".
 also PlayDead
 -----------
 
-on bandcamp! https://pladead.bandcamp.com/ - synths n shit
+on bandcamp! https://playdead.bandcamp.com/ - synths n shit
 
 Sounds a bit like a clever fuckboy imitating radiohead's experimental electronic side.
 
@@ -731,7 +772,7 @@ Absolute. Classic.
 Schlager
 -------
 
-German music; sort of a cross between knees-up folk songs and whatever genre Steps is. Eurodance?
+German 'folk' music; sort of a cross between knees-up folk songs and whatever genre Steps is. Eurodance?
 
 Music to spill beer to.
 
@@ -795,6 +836,13 @@ Thee Oh Sees
 
 Twitchy, awkward, Punky fast rock with that 2010s late 60s early 70s flavour. Energetic.
 Going for a surprisingly long time!
+
+Tolkien Ensemble
+---------------
+
+Danish group (sort of a cross between a small orchestra and a folk band), writing and performing music to accompany the lyrics of songs from the Lord of The Rings books.
+
+Best Song: The Old Walking Song
 
 
 2014
