@@ -10,6 +10,13 @@ Any weeks without entries, I've probably been listening to old stuff.
 May 2018
 ========
 
+### Late weeks
+
+Miserere mei, Deus by Gregorio Allegri
+-----
+
+Presumably the origin of the term 'Gregorian Chant'. Stark, cold, beautiful plainchant. Pure and unforgiving. Yet tinged with a deep sadness. Like the winter frost on a lake, after a year of terrible plague. Death comes for you, it is known. But you are too enraptured by its beauty to take action.
+
 ### Middle Weeks
 
 Album "Slow Air" by Still Corners
