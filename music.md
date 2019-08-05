@@ -7,7 +7,92 @@ Most recent entries first.
 
 Any weeks without entries, I've probably been listening to old stuff.
 
-May 2018
+August 2019
+=======
+
+### Early
+
+Finally, finally FINALLY logged back into my old YouTube - 
+the one that predates the split between YouTube users and channels.
+
+Rediscovered (what's left of) my old music bookmarks.
+
+My old tastes largely fall into one of three categories:
+
+1. The artist released no more content, or gave up at some point between 2011 and now
+2. I'm still listening to them today, or remained aware of them for a while afterwards.
+   Yay for personal continuity!
+3. I completely forgot about the artist, they've released new stuff I enjoy,
+  and I'm about to talk about some of them now!
+
+It is nice to see I've kept a few of my old bands,
+from my old life as a musician who listened to a lot of music.
+
+a large number of videos or channels didn't release much after I subscribed around 2011,
+but there is a small gleaming kernel of stuff I can get back into now.
+
+chief of which is:
+
+Toyface
+------
+
+Beige Walls - feels a little dated bow, with its affected Kate Nash-esque estuary glo''al stops and boho fashion.
+
+But the performance still holds up. 
+None of that detracts from strong and pure performance in the
+version from BD's channel.
+
+And today, there are 3 releases from 2011 to 2015 on [her bandcamp](toyface.bandcamp.com).
+
+Maybe I should see if she still performs live? She's listed as then being based in Bristol,
+but that could be out of date
+
+
+July 2019
+========
+
+### Late
+
+Julia Jacklin
+------------
+
+Her words are too powerful. Perhaps I will another time. Later.
+
+Don't Know How to Keep Loving You is too much for me.  
+And so is Don't Let the Kids Win.
+
+Angelo Badalamenti
+-------
+
+Brilliant Italian composer
+
+Ennio Morricone
+------------
+
+also
+
+### Early
+
+Black Monument Orchestra
+
+Afro-futurist music-dance ensemble. Entrancing.
+
+June 2019
+========
+
+Mitchell Doxon - Woman Fireworks
+----
+
+Actually 'stock' music or whatever, but really catchy all the same.
+
+Meiko Kaji
+-----
+
+Singer of that Kill Bill japanese song, incuding words sounding like
+'domo Rhino' and 'shin day teh'
+
+
+May 2019
 ========
 
 ### Late weeks
@@ -16,6 +101,12 @@ Miserere mei, Deus by Gregorio Allegri
 -----
 
 Presumably the origin of the term 'Gregorian Chant'. Stark, cold, beautiful plainchant. Pure and unforgiving. Yet tinged with a deep sadness. Like the winter frost on a lake, after a year of terrible plague. Death comes for you, it is known. But you are too enraptured by its beauty to take action.
+
+Romeo & Juliet - Fantasy Overture by Tschaikovsky
+-------
+
+That overused, cheesy 'falling in love at first sight' music that is mostly relegated to lazy adverts trying to be funny these days. Said famous bit is about 14 minutes into the piece.
+
 
 ### Middle Weeks
 
