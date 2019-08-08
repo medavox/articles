@@ -36,17 +36,42 @@ chief of which is:
 Toyface
 ------
 
-Beige Walls - feels a little dated bow, with its affected Kate Nash-esque estuary glo''al stops and boho fashion.
+Beige Walls - feels a little dated now,
+with its affected Kate Nash-esque estuary glo''al stops and boho fashion.
 
-But the performance still holds up. 
+But the performance still holds up.
 None of that detracts from strong and pure performance in the
 version from BD's channel.
 
 And today, there are 3 releases from 2011 to 2015 on [her bandcamp](toyface.bandcamp.com).
 
 Maybe I should see if she still performs live? She's listed as then being based in Bristol,
-but that could be out of date
+but that could be out of date.
 
+I've stuck a load of the orther old subscriptions in the 2009-2011 section,
+because that *is* when I listened to them.
+
+John Cale & Brian Eno - Spinning Away
+--------
+
+Not directly related to rediscovering my old subscriptions,
+but it turns out Sugar Ray's song "spinning away" from The Beach soundtrack
+is a cover of this song.
+
+I love both versions.
+
+Hildegaard Von Bingen
+------
+
+A German medieval polymath nun (what a set of adjectives), I originally knew of Hildegaard
+through her constructed language, possibly the first in human history.
+
+The album (or rather modern compilation of compositions) I've listened to -- Hortus Deliciarum --
+is claimed by a commenter to be the work of another Herrad of Landsberg, a French nun.
+
+True or not, if this claim is plausible then it at least offers a similar artist recommendation!
+
+Discovered through the recommended videos after a cold watch of Miserere Mei, Deus 
 
 July 2019
 ========
@@ -56,29 +81,42 @@ July 2019
 Julia Jacklin
 ------------
 
-Her words are too powerful. Perhaps I will another time. Later.
+Her words are too powerful. Perhaps I will describe her another time. Later.
 
 Don't Know How to Keep Loving You is too much for me.  
 And so is Don't Let the Kids Win.
 
-Angelo Badalamenti
--------
 
-Brilliant Italian composer
+Brilliant Italian composers, who did a lot of soundtrack work
+-----
 
-Ennio Morricone
-------------
+* Angelo Badalamenti
+* Ennio Morricone
 
-also
+I'm starting to notice just how good at music Italiy is!
+
+Not necessarily mass-produced, poppy shite,
+but hidden gems and Art with Passion behind them.
 
 ### Early
 
 Black Monument Orchestra
 
-Afro-futurist music-dance ensemble. Entrancing.
+Afro-futurist music-dance ensemble. Entrancing, amazing and deep.
+
+Sounds a bit like what trip-hop could have been, 
+if it lasted and involved more 'real' instruments and fewer samples.
 
 June 2019
 ========
+
+Unloved
+-----
+
+Their songs are all over the series 'Killing Eve', 
+which is also where I first heard them.
+
+Kind of Angelo Badalamenti, neo-60s noir atmospheric indie.
 
 Mitchell Doxon - Woman Fireworks
 ----
@@ -126,7 +164,7 @@ YouTube channel "Elif'in Hecesi"
 ------
 
 Spiritual-sounding acoustic world music, esp. Turkish and Islamic temperament sounding. 
-Very atmospheric track by various artists.
+Very atmospheric tracks by various artists.
 Brotherhood of peace among all peoples, Gaia the World Spirit, etc.
 
 
@@ -142,7 +180,7 @@ Discovered a friggin' amazin' new electronic artist:
 French 79
 -----
 
-I presume they are (maybe just he is?) actually French, though maybe Belgian.
+I presume they actually are (maybe just he is?) French, though maybe Belgian.
 I saw that they're playing in Liège, so.
 
 Mostly instrumental. Would fit well with the V A P O R W A V E crowd,
@@ -301,7 +339,7 @@ Plus, she's no more sexed-up than the lead singer of CHVRCHES. She can't help be
 Gülden Karaböcek
 ---------------
 
-Who had that one 70s Turkish disco hit.
+Who had that one 70s Turkish disco hit 'Nem Kaldi'
 Turns out the rest of her career is similar to that!
 
 Chromatics
@@ -425,7 +463,7 @@ Khruangbin
 ---------
 
 Apparently Thai-inspired (I don't think so, having listened to their cited influence)
-very 3-piece 60s surf rock. Super chill, rather sexy
+very 3-piece 60s surf rock. Super chill, understatedly sexy
 
 Childish Gambino
 ----------------
@@ -433,7 +471,7 @@ Childish Gambino
 It's the good Donald!
 
 Mr. Glover's thought-provoking and often neurotic rap. Watch him grow up through his career!
-Political, but only because it's political to be young, gifted and Black in Americca
+Political, but only because it's political to be young, gifted and Black in Amerikkka
 
 * Early Destiny's Child - Bills, Bills, Bills
 * Kelly Rowland - Stole
@@ -480,6 +518,10 @@ White Stripes - I Just Don't Know What To Do With Myself
 Bobby Womack
 -----------
 
+Such a hero of soul to me.
+
+Classic song: Across 110th Street
+Great modern song: forgive my heart
 
 May 2018
 =======
@@ -683,7 +725,6 @@ Discovering new shit from **my** version of the RHCP, I decided to go looking fo
 from my favourite bands. Discovered this album from Radiohead.
 
 
-
 The end song from the film, "The Tale of Princess Kaguya"
 
 March 2017
@@ -814,7 +855,8 @@ Tribal Nordic (apparently metal?) wardrum-heavy ancient vibes
 Exist Strategy
 ----------
 
-Post-Rock, I think. Found it in the archives.
+Post-Rock, I think. Found it in the archives. 
+Originally a recommendation from a BBC Radio Cymru music show I listened to.
 
 Chicago - 25 or 6 to 4
 ----------------------
@@ -870,9 +912,16 @@ Absolute. Classic.
 Schlager
 -------
 
+
+A german genre, basically the unbroken continuation of true folk music,
+which has become something between eurodance, oompa-music,
+and seemingly football chants.
+
 German 'folk' music; sort of a cross between knees-up folk songs and whatever genre Steps is. Eurodance?
 
 Music to spill beer to.
+
+totally against my usual tastes, but I suppose the German-ness makes it ok!
 
 Artists include:
 
@@ -880,6 +929,7 @@ Artists include:
 * Gina - (Zwillingstern)
 * Vanessa Mai (Ich sterb für dich)
 * Andreas Gabalier (I sing a Liad für Di) (swiss german or something)
+
 
 September 2016
 ==============
@@ -1014,16 +1064,97 @@ Songs To Wear Pants To
 
 AKA Andrew Huang. An early internet musician, who was (for the time) unusually talented.
 
-Best songs: 
+Adrian Holovaty
+------
 
+Gypsy-jazz guitarist from chicago
+(which somehow makes it feels all the more real)
+
+Along with covers of the old standards, he also does some more contemporary songs
+in the gypsy hazz style.
+
+Andy Rehfeldt
+----------
+
+Metallised and de-metallised covers of pop songs.
+
+He may have started this as a joke, but the high production-value,
+and the accompanying synced video make it truly brilliant.
+
+Best song: Motown cover of Beyoncé's Single Ladies,
+with a music video referencing the proud tradition of girl groups.
+
+Julia Nunes
+-------
+
+Julia Nunes Julia Nunes!
+
+The queen of nerdy ukulele music. Also did live shows with Ben Folds,
+and I'm sure Jonathan Coulton at some point.
+
+Molly Lewis / SweetAfton23
+--------
+
+Similar to Julia Nunes, but at the time of discovery, 
+much younger and therefore less polished.
+
+Really good though!
 
 2010...
 ======
 
+Cyriak
+-----
+
+weird-video artist & musician who predates YouTube, 
+but like Weebl (and probably many others) has re-uploaded it all there.
+
+Turns out (as of writing this in August 2019 ) 
+that his music is often in micro-tonal scales -- possible 11 tone --
+which of course adds to the weirdness.
+
 Fever Ray
+-----
+
+2009?
+=====
+
+Deetak
+-----
+
+Songfighter whose tender vocal delivery and simplistic piano arrangements
+really captivated me at the time.
+
+Seems to have trailed off.
 
 
-Somewhere:Vanessa Mai
-Beatrice Egli
-I sing a lied fur di
+H.J. Freaks
+----------
 
+Come for the perfect storm of Japanese weirdness,
+stay for the unrivalled technical skill on the bass guitar.
+
+Has kept making videos to the present day (Augut 2019),
+so there's lots to catch up on.
+
+Might actually be trans, because I haven't seen a recent video of this bassist
+not in a dress...
+
+
+
+MysteryGuitarMan /Joe Penna
+-----
+
+Skilled guitarist who uses the magic of video editing to make very entertaining videos
+
+
+Rob Scallon
+-----
+
+Started out as your garden-variety Metal Guitarist Dude, but over the years on YouTube
+has honed his video-craft, and makes insightful videos about music.
+
+Along with the occasional actual song.
+
+Some Time Earlier
+===============
