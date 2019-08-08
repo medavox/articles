@@ -15,7 +15,6 @@ Chronicle
 Don Jon
 Earth To Echo
 Enemy
-Europa Report
 Exam
 Grown Ups 2
 High-Rise
@@ -60,7 +59,6 @@ Ran (kurosawa)
 Slaughterhouse 5
 The Impostor (2012)
 We Need to Talk About Kevin
-Yojimbo
 Zodiac (2007)
 Soft Top Hard Shoulder
 Comfort and Joy (1984)
@@ -68,6 +66,8 @@ Strictly Sinatra (2001)
 
 
 ---- WATCHED ----
+Yojimbo
+Europa Report
 Riddick
 Gone Girl
 The Lobster
