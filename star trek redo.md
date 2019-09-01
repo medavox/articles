@@ -12,7 +12,7 @@ tactile button-based controls for priority posts
 replicators exist, but require supplies of raw materials  
 many people prefer to cook their own food, replicating the ingredients instead
 
-forcefields are limited, and have not replaced airlocks  
+forcefields are limited (only flat planes, no shaped fields), and have not replaced airlocks.  
 orbital mechanics are respected, as are the newtonian laws of motion  
 planetary exploration is carried out by specially-trained away-teams (rather than bridge crew),  
 launched in drop-ships
@@ -20,7 +20,8 @@ launched in drop-ships
 articial gravity exists as a passive, solid-state technology: that is, it works even when unpowered.
 
 Major command decisions should require the consensus of at least 2 of the 3 senior officers.  
-In fact, the command structure should be less militaristic in general
+In fact, the command structure should be less militaristic in general.
+Quick decision-making still goes to the senior officer.
 
 A Multi-Species Civilisation
 ---------
@@ -123,3 +124,83 @@ Key technological advances:
 manipulation of gravity  
 highly efficient reaction drives (needing far less fuel than anything today)  
 warp drive (an extension of the gravitational technology)  
+
+------
+
+from an alternate univse where the USSR only collapsed at the same time as the uSA, 
+following a nuclear exchange.
+
+The new government of Earth inherits equally from both powers
+
+----
+
+production-wise, it's more like a soap-opera than a finite-length seasonal show.
+Cast members come and go gradually over the years, 
+better mimicking the nature of a rotating crew.
+
+-----
+
+there are no universal translators.
+Because of this, the purportedly scientific nature of the UFP is better backed up by the fact that
+a significant portion of the fleet is dedicated to long-term,
+ongoing amabassadorial/anthropological work:
+round-table, good-faith talks with willing cultures, 
+collaborating with them to figure out a way to communicate.
+
+Think Picard's Darmok and Jalad at Tenagra, 
+but more planned and indoors.
+
+This is another possible setting for episodes: the ship visiting cultures in the process of initiating diplomacy with the fedeation.
+
+Their post-scarcity society still highly values linguistic information, 
+and may trade with other more familiar cultures (with which they already have established diplomacy),
+in order to give this communciations development a boost.
+
+--------
+
+Klingons actually do more closely follow the Phase2 plan for their civilisation,
+originally having a Warrior Caste, Techno/Science Caste and a Ruling Caste.
+
+The thing is, centuries ago the Warrior caste rebelled from their subservient role,
+and committed genocide on the other castes, wiping them out.
+
+Their unbridled warrior culture is all the federation have ever known of them.
+
+It explains their planet-of-hats tendencies:
+they are a post-revolutionary culture, 
+trapped permanently emulating the perceived ideals of their revolutionary forefathers,
+and have become ultra-violent parodies of their more well-rounded ancestor society.
+
+The federation's primary contact with the Klingons has been through this replacement culture.
+
+maybe the modern Klingons (former Warrior caste) were genetically engineered by the Technologists?
+or maybe they were parallel intelligent evolutions on the same planet?
+
+alternatively, after the overthrow (and subsequent genocide) of the other castes,
+maybe a period of extremely violent barbarism and warlords took hold,
+from which Kahless rescued them with the Code of Honor
+
+
+interesting real Klingon backstory note:
+the Klingons' First Contact with an off-world sentient species was when they invaded them.
+
+They threw off these invaders, but this may have left Klingon culture with a permanent distrust of aliens
+
+
+Don't forget the sentient former pet culture!
+
+------
+
+what if the UFP was formed AFTER humanity colonised other worlds,
+and they're getting 'back out there' into space to meet those lost human cultures?
+
+maybe this is a society formed after an event by the ANCIENT TECH HUMANS who brought about a change in the laws of Physics,
+which stopped electricity from working?!
+
+(insert age of gritty gruesome post-apocalyptic  here)
+
+that would explain why no former colony planets came to visit fallen earth in their intact uncollapsed spaceships
+
+what if in this series, the Primary Human Civilisation is actually the aggressor?
+
+What if we're the baddies??
