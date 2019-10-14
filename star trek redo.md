@@ -15,13 +15,17 @@ many people prefer to cook their own food, replicating the ingredients instead
 forcefields are limited (only flat planes, no shaped fields), and have not replaced airlocks.  
 orbital mechanics are respected, as are the newtonian laws of motion  
 planetary exploration is carried out by specially-trained away-teams (rather than bridge crew),  
-launched in drop-ships
+launched in drop-ships that have to actually deorbit & undergo re-entry,
+not just fly downwards from the presumably magically static-floating ship
 
 articial gravity exists as a passive, solid-state technology: that is, it works even when unpowered.
 
 Major command decisions should require the consensus of at least 2 of the 3 senior officers.  
 In fact, the command structure should be less militaristic in general.
 Quick decision-making still goes to the senior officer.
+
+Show the need for different shifts more: there are multiple people to fill every role on the ship,
+usually 3 or more.
 
 A Multi-Species Civilisation
 ---------
@@ -36,7 +40,8 @@ but it is encouraged that everyone contributes to society in a way that pleases 
 People show a great deal more goodwill and willingness to help others than in the West now.
 
 Having large crews man starships has implications that are not positive; it implies that the societty has (and must have) 'little people'; people of little achievement (implied to be of little worth, 'stepped on') who must do relatively menial or undesirable jobs.
-Gene Roddenberry's original goal was to have technology remove the NEED for people 'empty the bins', as it were (or scrub the plasma manifolds etc).
+Gene Roddenberry's original goal was to have technology remove the NEED for people to 'empty the bins',
+ as it were (or scrub the plasma manifolds etc).
 A better setting would be a much smaller crew, the bulk of which consitute the central cast. No nameless extras.
 
 
@@ -49,7 +54,10 @@ allowing members of each species to get to know each other by working alongside 
 rather than in the phony politeness of ambassadorial missions.
 
 Mixed-species crews, while sometimes facing major logistical problems 
-(materials which have desirable mechanical properties in all temperature ranges its species are comfortable in?) , are also better able to handle challenges which would otherwise overwhelm members of a particular species. In the same way the Voyager's doctor (and TNG's Data) act as non-biological backups when everything goes wrong, one species would not be vulnerable to the same things as the other.
+(materials which have desirable mechanical properties in all temperature ranges its species are comfortable in?) , 
+are also better able to handle challenges which would otherwise overwhelm members of a particular species. 
+In the same way the Voyager's doctor (and TNG's Data) act as non-biological backups when everything goes wrong, 
+one species would not be vulnerable to the same things as the other.
 
 ### Between Civilisations
 
@@ -58,11 +66,14 @@ yet they and the Federation have tense relations (possibly due to a disagreement
 a la the tendency of the Left to schism)?
 
 The idea being, to not have simple straw-man enemies that it's obvious we're supposed to dislike.  
-'Enemies' should have a viewpoint that is understandable (or at least partially) yet misguided, or for which there are people out there today who believe the same.
+'Enemies' should have a viewpoint that is understandable (or at least partially) yet misguided, 
+or for which there are people out there today who believe the same.
 
-* use fewer-to-no examples of an american metaphor -- no big, heavily-armed military organisation with thinly-veiled colonial tendencies
+* use fewer-to-no examples of an american proxy/metaphor -- no big, heavily-armed military organisation with thinly-veiled colonial tendencies
     - no "it's for your own good" and gunboat diplomacy
 * replicators can assemble relatively simple shapes from existing materials -- but they can't perform alchemy; they need the right raw materials, as elemental fusion is prohibitively costly of energy, and probably wasteful
+This means there's still a need for supply of raw materials,
+both onboard starships and as societal resources
 
 Warp Drive and FTL Travel
 -------
@@ -78,7 +89,8 @@ Going on a far intersolar mission means 50 or more years will have passed back h
 
 AI and Trans-Humanism
 ------
-Artifical life has been banned, after a war for survival which nearly wiped out all biological life  
+Artifical life has been banned, after a war for survival which nearly wiped out all biological life 
+-- yes, I'm copying Dune's Butlerian Jihad somewhat
 computers and large computing machines are allowed, but neural nets are forbidden,  
 	and small electronics are allowed on a case-by-case basis  
 along with this, electronic body modification is an extreme taboo(maybe?)  
@@ -90,7 +102,7 @@ Realism of Details
 * People have to finish announcing their intended recipient before a comm badge connects them to that recipient
 * Stop referring to Starfleet as "Humans", or acting like everyone in starfleet knows all about Earth history
 * No more tokenboobs catsuit & pushup bra crewmembers; just put the same characters in a normal uniform!
-* People don't all know how to use all computers
+* People don't all know how to use all computers & interfaces
 * Other species may have multiple cultures: pacifist klingons, emotional vulcans...
 * there aren't just energy weapons & shields -- sometimes kinetic weapons work better.
 
@@ -99,7 +111,8 @@ Increased Scientific Accuracy
 
 ### General
 
-* Use real units and materials where possible -- no gigaquads, instead gigabytes; no isorems but rather millisieverts.
+* Use real units and materials where possible -- no gigaquads, 
+instead gigabytes; no isorems but rather millisieverts.
 * Equally, stop inventing a new form of radiation every week as a throwaway plot-point
 * No wave or beam can penetrate a planet, without also destroying that planet
 * Heat dissipation and deceleration are still challenges 
@@ -116,7 +129,10 @@ More sensible designs should always win out
 ### Medicine
 
 * Individuals are not suddenly and irrevocably dead when a machine makes a persistent whining noise
-* Also stop using the 80s medical drama of defibrillator usage
+* Also stop using the 80s medical drama metaphor of defibrillator usage
+    - i hate it when they say "clear!" and the person on the bed has to lurch slightly
+    - also hate the whine, and someone is instantly, irrevocably dead
+    - your heart can stop for up to \~15 minutes, and you can still be revived
 
 
 Key technological advances:
@@ -127,7 +143,7 @@ warp drive (an extension of the gravitational technology)
 
 ------
 
-from an alternate univse where the USSR only collapsed at the same time as the uSA, 
+from an alternate universe where the USSR only collapsed at the same time as the uSA, 
 following a nuclear exchange.
 
 The new government of Earth inherits equally from both powers
@@ -158,6 +174,11 @@ in order to give this communciations development a boost.
 
 --------
 
+The lack of a universal translator is ameliorated by a UNIVERSAL AUXILIARY LANGUAGE:
+Tuki Nuwa!
+
+--------
+
 Klingons actually do more closely follow the Phase2 plan for their civilisation,
 originally having a Warrior Caste, Techno/Science Caste and a Ruling Caste.
 
@@ -182,7 +203,7 @@ from which Kahless rescued them with the Code of Honor
 
 
 interesting real Klingon backstory note:
-the Klingons' First Contact with an off-world sentient species was when they invaded them.
+the Klingons' First Contact with an off-world sentient species was when they were invaded by them.
 
 They threw off these invaders, but this may have left Klingon culture with a permanent distrust of aliens
 

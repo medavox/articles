@@ -1,5 +1,6 @@
 Science Fiction Story Ideas
 ====
+
 An unsorted collection of ideas that have poppped into my mind, relating to (probably science-fictional)
 stories that could be told.
 
@@ -48,7 +49,7 @@ powerful a shaping factor than evolution, and now we've become a mass extinction
 
 ---
 
-Person who can accelerate time inside their own brain for fun and profict, without visibly aging.
+Person who can accelerate time inside their own brain for fun and profit, without visibly aging.
 Uses it to gain power/money etc, but ends up suffering from premature senile dementia
 
 ---
@@ -57,18 +58,18 @@ Most extinction events throughout Earth history could be when intelligent specie
 of the food chain -- including dinosaurs
 
 Some were so intelligent that they did it too quickly to leave behind a fossil record.
-We just happen to less efficient hunters and more efficient builders than previous species
+We just happen to less efficient hunters and more efficient builders than previous intelligent species
 
 ---
 
-Semi-apocalypse caused by Yellowstone's supervolcano eruptin. The USA as a country is immediately wiped out
+Semi-apocalypse caused by Yellowstone's supervolcano eruption. The USA as a country is immediately wiped out
 (effectively is no longer a noticable national entity; pockets of humanity did survive on the continent),
 and Russia becomes a sinister, unrivalled militaristic bully
 
 ---
 
 Story where humans deal with a threat to their existence successfully, because people form armed gangs easily
-when they perceive an external threat. We biologically and culturally hardwired to kill the 'other'.
+when they perceive an external threat. We are biologically and culturally hardwired to kill the 'other'.
 Dealing with these armed militiae is more of an issue, and will take more time than the original threat
 
 ---
