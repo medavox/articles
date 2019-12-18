@@ -68,8 +68,10 @@ l, r
 
 ### Fricatives
 
+```
 f, θ 'th', s, ʃ 'sh', h
 v, ð 'dh', z, ʒ 'zh', /x/ 'ch/kh'
+```
 
 Which consonant you want is indicated from the branch is indicated with a little hook,
 or a little fruit:
@@ -161,7 +163,7 @@ Future
 * stress indications; maybe use a C-shape parallel to the block?
   - and a reverse-C for secondary stress, even??
 * a numeral system that gels with the aesthetic
- still just place-based decimal though
+  - still just place-based decimal though
 * a way to indicate rounding on vowels
 * ***PHONEMIC TONE??!***
 
