@@ -32,7 +32,7 @@ The more traditional representation:
 (This is with a non-rhotic accent of English btw. 
 For American English speakers, these 3 vowels are often the same sound.)
 
-Longer vowels are written by doubling them
+Longer vowels are written by doubling them:
 
 [example images:]
 
