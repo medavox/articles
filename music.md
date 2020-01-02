@@ -7,6 +7,67 @@ Most recent entries first.
 
 Any weeks without entries, I've probably been listening to old stuff.
 
+December 2019
+=======
+
+New Favourite Christmas Carol: In The Bleak Midwinter
+--------
+
+Its sadness, its "acknowledgment of the bittersweet nature of Christmas,
+the memory of all the people you can no longer celebrate it with"
+(paraphrased from a BBC documentary about carols with Lucy Worsley),
+speaks to me right now.
+
+Gyorgy Ligeti
+------------
+
+Terrifying, dense choral arrangements of mostly existential horror.
+Soundtrack from 2001: a space oddyssey
+
+Jacob Collier
+------------
+
+BBC Home-Counties darling who I heard about quite late.
+Straddles the youtube-heartthrob and the modern classical worlds,
+by being a rather talented dab hand with the old Harmoniser
+(creates acapella on the fly from his voice, presumably controlled by keyboard)
+
+I'm not as keen on him as everyone else apparently is,
+but he is still a bloody good musician.
+
+November 2019
+=========
+
+Mxmtoon
+------
+
+Incredibly now, radio-friendly Steven Universe-sounding Uke+singer.
+
+Best song: Feelings are Fatal
+
+September 2019
+=============
+
+Ocean Colour Scene - The Day We Caught The Train
+--------
+
+A song everyone knows the chorus to,
+but not the name, because the chorus's lyrics are literally "oh oh la la"
+
+October 2019
+===========
+
+Generally, slightly lesser-known 80s and early 90s pop hits.
+
+The Waterboys - Whole of the Moon
+--------
+
+No More I Love Yous
+-----
+
+Both the version by Annie Lennox, 
+and the little-known original by The Lover Speaks
+
 August 2019
 =======
 
@@ -1046,6 +1107,15 @@ Grimes
 
 Techno-witch music with a Kawaii sort of influence
 
+Listener
+-------
+
+Sounds like a small-town american alcoholic in his thirties 
+(who could've been so much more if only he hadn't made bad choices),
+coming to terms with his own mortality. 
+
+Very bleak spoken-word poems over mournful post-rock.
+
 Dead Can Dance
 --------------
 
@@ -1156,5 +1226,42 @@ has honed his video-craft, and makes insightful videos about music.
 
 Along with the occasional actual song.
 
-Some Time Earlier
+2007-2009
 ===============
+
+All the good shit:
+
+* Glasvegas
+* Arcade Fire
+* The Pixies
+* Radiohead
+* The Red Hot Chili Peppers
+* Muse
+
+2005-2007
+=======
+
+Getting the good shit.
+
+* Bob Dylan
+* The Beach soundtrack
+* REM
+* Trainspotting Soundtrack
+* Ministry of Sound (or Ministry of Dance?)
+* Motown classics, incl:
+  - Sam & Dave
+  - Percy Sledge
+  - Ike & Tina Turner
+  - The Platters
+
+Before 2005
+====
+
+Stuff I'm not so proud of. Hey, I was less than 16 alright?
+
+* Iron Maiden
+* Sugababes
+* Queen
+* Trivium
+* Mad Capsule Markets
+* The Beatles
