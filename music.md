@@ -7,6 +7,25 @@ Most recent entries first.
 
 Any weeks without entries, I've probably been listening to old stuff.
 
+January 2020
+===========
+
+Early
+----
+
+### Lightning Bolt
+
+That crazy, intense bass-and-drums duo from that Muse giveaway selection from Kerrang years ago.
+the song from that is called magic mountain, which, like most of their stuff,
+is incredibly intense and weird.
+
+I prefer their entirely instrumental stuff; 
+or at least when the mouth makes no meaning.
+
+I don't want to have to decipher the screaming into words.
+
+They're like a more outsider-art version of Thee Oh Sees
+
 December 2019
 =======
 
@@ -45,14 +64,6 @@ Incredibly now, radio-friendly Steven Universe-sounding Uke+singer.
 
 Best song: Feelings are Fatal
 
-September 2019
-=============
-
-Ocean Colour Scene - The Day We Caught The Train
---------
-
-A song everyone knows the chorus to,
-but not the name, because the chorus's lyrics are literally "oh oh la la"
 
 October 2019
 ===========
@@ -66,7 +77,23 @@ No More I Love Yous
 -----
 
 Both the version by Annie Lennox, 
-and the little-known original by The Lover Speaks
+and the lesser-known original by The Lover Speaks
+
+September 2019
+=============
+
+Ocean Colour Scene - The Day We Caught The Train
+--------
+
+A song everyone knows the chorus to,
+but not the name, because the chorus's lyrics are literally "oh oh la la"
+
+The Barry Sisters - Di Grine Kuzine
+------------
+
+50s-60s close-harmony pop from a sister trio, but it's in Yiddish.
+
+Also a fun extreme translation challenge.
 
 August 2019
 =======
@@ -133,6 +160,15 @@ is claimed by a commenter to be the work of another Herrad of Landsberg, a Frenc
 True or not, if this claim is plausible then it at least offers a similar artist recommendation!
 
 Discovered through the recommended videos after a cold watch of Miserere Mei, Deus 
+
+### Middle
+
+First AId Kit
+------------
+
+Swedish sister duo performing rural chamber folk. Same genre as Fleet Foxes.
+Sound like they're from Antebellum Southern United States when they sing, almost.
+
 
 July 2019
 ========
@@ -407,6 +443,11 @@ Chromatics
 ---------
 
 More hyper-80s New Wave (Old Wave?)
+
+Tennis
+------
+
+Really sweet dreampop
 
 
 September 2018
@@ -1170,6 +1211,11 @@ much younger and therefore less polished.
 
 Really good though!
 
+Anchor & Braille - Blur
+-------
+
+Really fucking good song. Resignedly sad, but I just love it.
+
 2010...
 ======
 
@@ -1229,7 +1275,7 @@ Along with the occasional actual song.
 2007-2009
 ===============
 
-All the good shit:
+All the good shit which forms part of my established music lanndscape today:
 
 * Glasvegas
 * Arcade Fire
@@ -1237,6 +1283,16 @@ All the good shit:
 * Radiohead
 * The Red Hot Chili Peppers
 * Muse
+
+SongFighters I like The Music Of
+------------
+
+* Deetak
+* Seoup T Gei - particularly Last Day of Free Speech
+* 40 Second Songs
+  - Icons of My Childhood made me cry back in the day, I remember
+
+
 
 2005-2007
 =======
