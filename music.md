@@ -26,6 +26,16 @@ I don't want to have to decipher the screaming into words.
 
 They're like a more outsider-art version of Thee Oh Sees
 
+Late
+----
+
+### Vangelis - Conquest of Paradise
+
+Ominous last-millenium european expansion and invasion.
+Cheesily epic. Humming Choirs.
+
+I think I first heard it in FMA
+
 December 2019
 =======
 
