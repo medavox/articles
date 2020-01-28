@@ -17,10 +17,10 @@ a        | a /æ/   | â /ɑː/      | ai /aɪ/ | ou /aʊ/   | ar /ɑːɹ/  | ai
 egzampul | bat     | hard (-R)   | flait   | toun      | barn (+R) | TBD       | flour (+R)
 
 
-`-R` signifies a pronunciation exclusive to non-rhotic accents
+`-R` signifies a pronunciation exclusive to non-rhotic accents  
 `+R` signifies a pronunciation exclusive to rhotic accents
 
-`-R` signifais a prununsîeishun eksklûsive tu non-rôtik aksents
+`-R` signifais a prununsîeishun eksklûsive tu non-rôtik aksents  
 `+R` signifais a prununsîeishun eksklûsive tu rôtik aksents
 
 [^1]: occurs only in dialects without the cot-caught merger
