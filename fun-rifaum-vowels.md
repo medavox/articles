@@ -1,4 +1,4 @@
-Vowel examples for Jan Misali's [Fun Riform](https://www.seximal.net/riform) spelling reform of English.
+Vowel examples for jan Misali's [Fun Riform](https://www.seximal.net/riform) spelling reform of English.
 
 
 x          | short   | long        | -i      | -u        | -r        | -ir       | -ur
