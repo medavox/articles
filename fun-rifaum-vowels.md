@@ -14,7 +14,7 @@ egzampul | fun     |             |         |           | ferst     |           |
 o        | o /ɒ/   | au /ɔː/     | oi /ɔɪ/ | klôn      | or /ɔːɹ/  | oir /ɔɪɹ/ | ôr /oʊɹ/
 egzampul | pot (-R)| thaut [^1]  | koin    | flôt      | born (+R) | TBD       | TBD
 a        | a /æ/   | â /ɑː/      | ai /aɪ/ | ou /aʊ/   | ar /ɑːɹ/  | air /aɪɹ/ | our /aʊɹ/
-egzampul | bat     | hard (-R)   | flait   | toun      | barn (+R) | TBD       | flour (+R)
+egzampul | bat     | hâd (-R)    | flait   | toun      | barn (+R) | TBD       | flour (+R)
 
 
 `-R` signifies a pronunciation exclusive to non-rhotic accents  
