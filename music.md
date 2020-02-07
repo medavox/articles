@@ -36,6 +36,20 @@ Cheesily epic. Humming Choirs.
 
 I think I first heard it in FMA
 
+### Jonathan Bree
+
+incredibly weirdhip new zealander. 
+Been going for forever, but was recently recommend-bombed by Youtube's algo, 
+so will probably be really popular right now.
+
+Also related: Princess Chelsea - even weirder, often duets with him,
+very interesting musicvideo artist basically
+
+### Future Islands
+
+British-sounding singer with that early-80s synth-indie sound
+Great lyrics in the song 'Balance'
+
 December 2019
 =======
 
@@ -73,6 +87,13 @@ Mxmtoon
 Incredibly now, radio-friendly Steven Universe-sounding Uke+singer.
 
 Best song: Feelings are Fatal
+
+Allie X
+------
+
+Opened for Marina at the Apollo.
+
+Best song: Girl of the Year
 
 
 October 2019
