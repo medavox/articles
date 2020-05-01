@@ -7,6 +7,34 @@ Most recent entries first.
 
 Any weeks without entries, I've probably been listening to old stuff.
 
+April 2020
+=========
+
+Late
+----
+
+#### Dirty Projectors
+
+Also heard on Radio 6. Really rich, trippy orchestral sound. Feels like the high-budget interludes between the "real" songs on Muse's Absolution album.
+
+March 2020
+=========
+
+Late
+---
+
+### Jockstrap
+
+Heard on Radio 6. 
+
+Mid
+----
+
+### DakhaBrakha
+
+
+Ukrainian Folk/Classical/Trance quartet. As bonkers as it sounds, but really catchy and danceable.
+
 January 2020
 ===========
 
