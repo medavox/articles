@@ -12,8 +12,6 @@ You will need:-
 * a data allowance you don't mind using, and
 * (optional) a USB cable to connect your phone to your computer (micro-USB or USB-C, depending on your phone)
 
-This guide should work for any Android phone.
-
 
 This guide should work for any Android phone.
 
