@@ -64,7 +64,7 @@ Ingredients/You Will Need:
 * 1 Litre of water
 * 60g of rice
 	- can be really cheap, with broken grains, it doesn't matter. Cheap rice is starchy rice, which is what we want
-* 70g teaspoons of peanut butter
+* 70g (about 2 tablespoons) of peanut butter
 	- Smooth or crunchy is fine. I've tried both, and the only difference I've found is the amount of bits you get when filtering later
 	- Again, cheaper may be better for this, as its natural nut oils have been stabilised less with additives,
 		so are more readily available for mixing into the milk.
