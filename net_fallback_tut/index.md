@@ -1,4 +1,4 @@
-# How to 
+# How to Improve Your Internet Reliability by Using Your Phone's Data As a Fallback
 
 Are you suffering from an unreliable home internet connection? 
 
