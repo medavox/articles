@@ -6,6 +6,15 @@ Do you have a data allowance on your phone?
 
 Then here's a way to use your phone (and its data package) to smooth over temporary connectivity issues in your home WiFi.
 
+You will need:-
+
+* And Android phone, with
+* a data allowance you don't mind using, and
+* (optional) a USB cable to connect your phone to your computer (micro-USB or USB-C, depending on your phone)
+
+This guide should work for any Android phone.
+
+
 This guide should work for any Android phone.
 
 
