@@ -10,21 +10,21 @@ A lot of these have been discovered from falling for these, so hopefully over ti
 
 
   * Is the home-row intact?
-      * is there a 3-wide, 2-down set of keys arranged thus:
+      * is there a 3-across, 2-down set of keys arranged thus:
       * insert, home, pgup
       * delete, end, pgdn?
   * are the arrow keys squashed, weirdly placed, or crowded by other extraneous keys?
-  * is the keyboard British?
+  * is the keyboard British? (ISO layout, not ANSI)
       * shift-3 = £
       * enter key is 2 rows tall
       * left of Z = \\
       * left of 1 = `
   * Are the function keys accessible without Fn?
+    - if not, can this be toggled in BIOS or software?
   * Is the CTRL key in the bottom-left of the keyboard?
-  * Are there any caps-lock, num-lock, or scroll-lock indicators?
+  * Are there any caps-lock or num-lock LED indicators?
   * (scroll lock and can be missing, that's fine. If there's no numpad, it makes sense)
-  * How badly scrunched up are the arrow keys?
   * Is it easy to turn the monitor brightness up/down, WiFi and Bluetooth on-off?
-      * each action should be doable with one hand, but without being able to accidentally do them
+      * each action should be doable with one hand, but without being able to accidentally press them
 
 %tags: lists,hardware,practical
