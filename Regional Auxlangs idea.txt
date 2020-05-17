@@ -1,0 +1,91 @@
+rather than one World Auxlang, have regional language family auxlangs
+Chinese
+    PRoC
+    Taiwan
+    Hong Kong
+    
+Arabia
+    Saudia Arabia
+    Egypt
+    Libya
+    Algeria
+    Morocco
+    Yemen
+    Oman
+    Iraq
+    Syria
+    Jordan
+
+Sub-saharan-Africa
+Desi/Subcontinental/Greater India 
+    (India, countries formerly part of India,
+     countries significantly culturally influenced by India)
+    India
+    Bangladesh
+European
+    English
+        USA
+        Canada
+        UK
+        Australia
+        New Zealand
+        South Africa (partially)
+        Belize (partially)
+        India (L2 lingua franca)
+        Guyana (daughter creole)
+        Jamaica (creole spectrum)
+    Spanish
+        Spain
+        Mexico
+        Chile
+        Bolivia
+        Uruguay
+        Paraguay
+        Colombia
+        Ecuador
+        Peru
+        Puerto Rico
+        Cuba
+        Dominican Republic
+        Argentina
+        Venezuela
+        Nicaragua
+        Honduras
+        Panama
+        Guatemala
+        El Salvador
+        Belize (partially)
+        Costa Rica
+    German
+    French
+        French Guinea
+        France
+    Portuguese
+        Portugal
+        Brasil
+    Dutch
+        Netherlands
+        Suriname
+
+
+Persia
+    Iran
+    Afghanistan
+    Turkmenistan
+    Uzbekistan
+    Tajikistan
+Turkia
+    Turkey
+    Kazakhstan
+    Kyrgyzstan
+    Azerbaijan
+
+
+
+does not cover:
+korean
+japanese
+thai
+indonesian
+Georgian
+and everyone from papua new guinea
