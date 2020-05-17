@@ -32,9 +32,14 @@ It doesn't damage your phone in any way, and is reversible.
 There are plenty of other guides on the internet on how to do this, but here's mine.
 
 1. Open Your Settings app, and scroll down to the bottom 
-2. Select "About Phone": ![dev options 1](dev1.jpg)
-3. Select "Software Information": ![dev options 2](dev2.jpg)
+2. Select "About Phone": 
+
+![dev options 1](dev1.jpg)
+3. Select "Software Information": 
+
+![dev options 2](dev2.jpg)
 4. Keep tapping "Build Number" until you see a message popup saying "You are now a developer!"
+
   ![dev options 3](dev3.jpg)
 
 ## Step 2: Keep Data On
@@ -48,8 +53,12 @@ The downside is, this will decrease battery life while this is turned on. Turn i
 Your phone will *still* only use your data when Wifi becomes unavailable.
 
 1. Open Your Settings app again, and scroll to the bottom
-2. Select the new "Dveloper Options" ![data 1](net1.jpg)
-3. Scroll down until you see an option labeled "Mobile Data Always Active", and turn it on. ![data 2](net2.jpg)
+2. Select the new "Dveloper Options"
+
+![data 1](net1.jpg)
+3. Scroll down until you see an option labeled "Mobile Data Always Active", and turn it on.
+
+![data 2](net2.jpg)
 
 ## Step 3: Connect (Tether) your PC to your phone
 
@@ -76,10 +85,16 @@ AND keeps your phone charged while using it.
 ### USB Tethering
 
 1. Open your settings app (one last time
-2. Select an option with a name like "Network"/"Connections"/"Connectivity" or similar. Here's it's called "Connections". ![tethering 1](teth1.jpg)
-3. Select "Mobile Hotspot and Tethering" ![tethering 2](teth2.jpg)
+2. Select an option with a name like "Network"/"Connections"/"Connectivity" or similar. Here's it's called "Connections".
+
+![tethering 1](teth1.jpg)
+3. Select "Mobile Hotspot and Tethering"
+
+![tethering 2](teth2.jpg)
 4. Connect your phone to your computer using your USB cable
 5. Enable the "USB Tethering" option
+
+![tethering 3](teth3.jpg)
 6. On your computer, disconnect from any other internet connections:
   * disconnect from your local Wifi
   * unplug any ethernet cables
