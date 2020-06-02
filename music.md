@@ -30,6 +30,17 @@ Heard it in a Mark Rober video.
 May 2020
 =======
 
+Late
+---
+
+### Elaine Walker
+
+Uses unconventional note systems (particularly Bohlen-Pierce), but, like Sevish, makes them sound good. Actually gets some conventional instruments to play in that system with her! awesome.
+
+
+Early-Mid
+------
+
 ### Gregory Alan Isakov
 
 Really, REALLY sooothing bluegrass folk. Russian-sounding name, very American-sounding music.
