@@ -7,6 +7,34 @@ Most recent entries first.
 
 Any weeks without entries, I've probably been listening to old stuff.
 
+June 2020
+========
+
+Early
+----
+
+### Gwilym Bowen Rhys
+
+Welsh-language folk artist. The album Arenig is really sweet music, rally good bluegrassy folk.
+Leans a bit too heavily into unaccompanied singing for my taste, 
+especially since I can't really understand the lyrics (yet?).
+
+But creates a wonderful atmosphere of wistfully harking back to a simpler time etc.
+
+### Andrew Applepie
+
+Just some good, vanilla instrumental electronic music to study / relax to, lol.
+
+Heard it in a Mark Rober video.
+
+May 2020
+=======
+
+### Gregory Alan Isakov
+
+Really, REALLY sooothing bluegrass folk. Russian-sounding name, very American-sounding music.
+
+
 April 2020
 =========
 
