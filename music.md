@@ -10,6 +10,14 @@ Any weeks without entries, I've probably been listening to old stuff.
 June 2020
 ========
 
+Mid
+----
+
+### Julia Holter
+
+Very like Julee Cruise, in that it's a formless nebula of feminine vocals and slow movements.
+Discovered through a collab version of Anna Calvi's Swimming Pool (the Hunted Version) played on Radio 6.
+
 Early
 ----
 
