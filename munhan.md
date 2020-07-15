@@ -16,7 +16,7 @@ that this is a guide for Munhan, as used from 2020 onwards.
 
 [example image: "example"]
 
-[^1]: Unless the syllable's vowel is a schwa' see below.
+[^1]: Unless the syllable's vowel is a schwa; see below.
 
 Vowels
 -----
