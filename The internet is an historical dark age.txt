@@ -1,0 +1,18 @@
+The age of the internet will be seen as another dark age to future historians and archaeologists
+no one is writing anything down anymore, on a physical medium which will survive more than ~10 years
+
+Websites only last as long as the company which runs them,
+most of which are startups that fail in 5 years
+technology is by definition constantly changing,
+so not only do old resources require:
+* constant energy input to keep the server running and
+* constant financial inut to pay for the hosting,
+
+but they also require constant technology development to
+remain up-to-date enough to be read by modern-ish hardware.
+
+Capitalism has perpetuated the churn of newer hardware replacing the old,
+even though it's no longer necessary from a speed standpoint
+
+In 50 years, nothing physical and readable will exist from our time,
+if we don't do something to actively change this
