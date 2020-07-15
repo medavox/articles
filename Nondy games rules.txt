@@ -1,0 +1,25 @@
+Non-Industry ("Nondy") games organisation structure rules,
+maybe applicable more widely:
+
+* further development is 50% controlled by a public queue of work in progress;
+* the other 50% is decided in-house
+    - developers do have a right to a say over what they'll spend their day working on,
+    - but users also deserve a say in how a product/project they care about is developed
+    - each in-house team member gets a vote
+    - however many public votes are counted, the total weighting of public vs private is made the same.
+    - so for 10 in-house votes vs 1000 public votes,
+      each in-house vote is scaled to be worth 100 public votes
+    - no reverse de-scaling is done if there are more in-house votes than public votes
+      (prevents a small audience wielding too much power over the team)
+* users may buy votes with real money to influence future development
+    - one vote per bank account per (day/week/month/decision/whatever),
+      to prevent undue influence by the rich
+    - possibly a minimum vote cost, with no upper limit
+    - possibly scale vote cost according ot originating country
+* earlier work is completed first (or else if not completable, finished or ended in some way);
+* the next piece of work is chosen from a pool of suggestions, 
+    * with the piece of work having the highest number of votes winning
+* the public have the right to veto development of something,
+  if there is a public >= 75% majority on vetoing it
+* the dev team have the right to veto an idea;
+  how the dev team decide to exercise their veto power is left open
