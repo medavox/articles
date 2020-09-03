@@ -7,6 +7,35 @@ Most recent entries first.
 
 Any weeks without entries, I've probably been listening to old stuff.
 
+August 2020
+==========
+
+Late
+----
+
+### Danielle Knibbe
+
+
+More wholesome bluegrassiness. Sounds so fucking good. 
+
+Best song: her cover of The Best, in a unique style (apparently derived from another cover, but imho different enough to be its own style)
+
+Early-mid
+---------
+
+A lot of female singers from the Voice France, for some reason.
+
+
+July 2020
+========
+
+Mas Que Nada ("oohhhhhhhh, badiyaaaaaaaaa. oh ba, oh ba, oh ba")
+
+Keleketla!
+---------
+
+Brilliant international electronic/afrobeat collaboration. Got a is apparently <genre>m, so have been liatening around that genre a lot as well
+
 June 2020
 ========
 
@@ -971,6 +1000,8 @@ Just noticed one song has an Anamanaguchi remix, so definitely chiptune-related.
 Later turned out a LOT of his sound might have come from the songs (and more generally the genre) he 'sampled'
 (namely, 80s japanese pop).
 
+Best song: Goodbye to a World (which is one of those songs chiefly derived from an existing one)
+
 Madeon
 ------
 
@@ -1177,6 +1208,14 @@ Hot Freaks' lead singer's solo work after their breakup.
 2015
 ====
 
+Mountain Goats
+------------
+
+Really lyrically poignant songs in a kind of folky indie style.
+
+The song "No Kids" feels like a divorce. 
+The soundtrack to the dissatisfaction in my marriage.
+
 Lindscaldwell
 -----------
 
@@ -1381,7 +1420,7 @@ Along with the occasional actual song.
 2007-2009
 ===============
 
-All the good shit which forms part of my established music lanndscape today:
+All the good shit which forms part of my established music landscape today:
 
 * Glasvegas
 * Arcade Fire
