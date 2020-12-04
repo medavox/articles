@@ -7,6 +7,28 @@ Most recent entries first.
 
 Any weeks without entries, I've probably been listening to old stuff.
 
+September 2020
+=============
+
+Mid
+---
+
+Obsessed with the song "Ferris Wheel" by Sylvan Esso.
+
+Also been listening to the Folk Acapella trio Mountain Man,
+of which Sylvan Esso's lead singer Amelia Meath is also a part.
+
+### Prince Buster - One Step Beyond
+
+Turns out it's a cover!
+
+
+Early
+-----
+
+CHIKA oranicuhh's NPR Tiny Desk concert. 
+She got famous (or at least found her audience)! YESSSSSS
+
 August 2020
 ==========
 
