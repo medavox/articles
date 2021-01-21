@@ -3,7 +3,7 @@
 In order to play, you have to leave your ego at the door.
 This means you agree not to take criticism personally, and be open to others' ideas and modifications to your work.
 
-The game starts when someone records themselves (or others!) playing a piece of music, then nominates someone to add to the song.
+The game starts when someone records themselves (or others!) playing a piece of music, then nominates someone else to add another track to the song.
 
 The starting player should share any musical info they know about the piece they recorded (chords, key, tempo in bpm). If they don't know, that's fine.
 
@@ -36,7 +36,7 @@ Your action can be any of the following (or something else musical I hadn't thou
 * Skip a turn - this is fine! Maybe you got nominated by surprise and don't want to play; maybe you're too busy this week. Maybe you think the song is already perfect! ;)
 * Move existing parts around - A little editing is ok, but too much and it can get stressful.
 
-You can try as many takes as you like, but in the end your turn can only only consist of one new track - one can be playing at any one time (feel free to splice your one track together from your million takes, if you can be bothered :P)
+You can try as many takes as you like, but in the end you can only add one new track. Feel free to splice your one track together from a million takes, if you can be bothered :P  But only one take can be playing at any one time - we should only hear one of you on each track.
 
 Try to add useful notes for pieces you play - chords, lyrics etc. 
 
@@ -59,7 +59,7 @@ You can ask to not be nominated again.
 
 When all active players skip their turn, the song is finished, and you have to post it somewhere for everyone to enjoy :)
 
-Or it's just over when it's over. Just remember to share it! If you want. Whatever man.
+Or it's just over when it's over. Just remember to share it! If you want. Whatever man
 
 
 You can work on what you want to add next even when it's not your turn. Just be aware that someone else might alter the song structure along the way!
