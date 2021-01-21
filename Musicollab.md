@@ -64,7 +64,7 @@ Or it's just over when it's over. Just remember to share it! If you want. Whatev
 
 You can work on what you want to add next even when it's not your turn. Just be aware that someone else might alter the song structure along the way!
 
-##How to Add A Track
+## How to Add A Track
 
 Play the working track through some ear- or headphones, then record yourself playing along to it.
 Load it all up in audacity (other audio editors are available: wavepad is good too), and sync up your new track to the others.
