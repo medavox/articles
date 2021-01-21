@@ -1,7 +1,5 @@
 # Musical Collaboration Game
 
-In order to play, you have to leave your ego at the door.
-This means you agree not to take criticism personally, and be open to others' ideas and modifications to your work.
 
 The game starts when someone records themselves (or others!) playing a piece of music, then nominates someone else to add another track to the song.
 
@@ -19,9 +17,11 @@ Try to keep editing to a minimum - this is meant to be quick and fun, not perfec
 
 ## Your Turn
 
-You have 7 days from being nominated to take an action and then nominate the next player, or you miss your turn and the previous player gets to nominate someone else (you can still be nominated again later).
+You have 7 days from being nominated to take an action and then nominate the next player, or you miss your turn and the previous player gets to nominate someone else (you can still be nominated again later, unless you ask not to be).
 
 You can ask to be nominated, but it *is* the current player's choice.
+
+You can ask *not* to be nominated again. 
 
 ### Action
 
@@ -55,7 +55,6 @@ You can skip your action if you don't want to take it; you can still nominate th
 If you don't nominate someone, the previous player gets to choose again.
 
 If you've taken a turn before, **there is no expectation for you to keep taking turns**. You can peace out and leave (or rejoin!) the game at any time.
-You can ask to not be nominated again. 
 
 When all active players skip their turn, the song is finished, and you have to post it somewhere for everyone to enjoy :)
 
@@ -70,5 +69,15 @@ Play the working track through some ear- or headphones, then record yourself pla
 Load it all up in audacity (other audio editors are available: wavepad is good too), and sync up your new track to the others.
 If you can't sync up your new track, just nominate someone who can! ;) They still get to do something of their own if they want on their turn, though.
 
+
+# Aim of the Game
+
+To make everyone feel good and make cool music together.
+
+In order to play, you have to leave your ego at the door.
+This means you agree not to take criticism personally, and be open to others' ideas and modifications to your work.
+
 Remember - it doesn't have to be perfect. Plenty of famous songs have mistakes hidden in them.
+
+Don't complain about audio/microphone quality - except you can complain about clipping - everyone can help that.
 
