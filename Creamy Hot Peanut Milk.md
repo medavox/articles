@@ -29,7 +29,7 @@ and stir until the dollop melts into the water.
   Be careful not to melt the business end of your hand blender,
   if it's only barely happy with hot liquids like mine is.
 
-5. Give it a little stir and server immediately, with a teaspoon
-(so you can stir it, to keep it from settling and separating)
+5. Give it a little stir and serve immediately, with a teaspoon
+(so you can stir it, to keep it from settling)
 
-Be careful: the creamy, foamy layer keeps the liquid underneath **very** hot for a long time!
+Be careful: the foamy top layer keeps the liquid underneath **very** hot for a long time!
