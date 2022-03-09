@@ -5,6 +5,10 @@ no transporters - they just make no sense, and ruin perfectly good stories, remo
 site-to-site replication might exist, beaming the things energy and 'blueprint',  
 but this could easily act as a weapon, given the energy content of matter  
 
+How about instead we transmit the instructions for how to fabricate a copy of a thing?
+It's constructed from local stockpiles of those elements/compounds, 
+and is explicitly a copy (it's sophisticated enough to do some chemistry, but not organic chemistry that can produce life)
+
 gay and trans people exist!
 
 no holodeck - however a matrix-like neural simulator exists, but is controversial  
@@ -39,7 +43,8 @@ but it is encouraged that everyone contributes to society in a way that pleases 
 
 People show a great deal more goodwill and willingness to help others than in the West now.
 
-Having large crews man starships has implications that are not positive; it implies that the societty has (and must have) 'little people'; people of little achievement (implied to be of little worth, 'stepped on') who must do relatively menial or undesirable jobs.
+Having large crews man starships has implications that are not positive; it implies that the society has (and must have) 'little people';
+people of little consequence (implied to be of little worth, 'stepped on') who must do relatively menial or undesirable jobs.
 Gene Roddenberry's original goal was to have technology remove the NEED for people to 'empty the bins',
  as it were (or scrub the plasma manifolds etc).
 A better setting would be a much smaller crew, the bulk of which consitute the central cast. No nameless extras.
@@ -47,7 +52,8 @@ A better setting would be a much smaller crew, the bulk of which consitute the c
 
 ### Between Species
 
-due to logistical constraints, starships are usually only single- or dual-species environments, so that their atmospheres, temperatures, humidities, aromas etc can be tailored to the comfort of their crew.
+due to logistical constraints, starships are usually only single- or dual-species environments, 
+so that their atmospheres, temperatures, humidities, aromas etc can be tailored to the comfort of their crew.
 
 Dual-species ships have the advantage of also acting as long-term exchange programs, 
 allowing members of each species to get to know each other by working alongside each other a real-world environment,
@@ -184,7 +190,7 @@ and they're getting 'back out there' into space to meet those lost human culture
 maybe this is a society formed after an event by the ANCIENT TECH HUMANS who brought about a change in the laws of Physics,
 which stopped electricity from working?!
 
-(insert age of gritty gruesome post-apocalyptic  here)
+(insert past age of gritty gruesome post-apocalyptic here)
 
 that would explain why no former colony planets came to visit fallen earth in their intact uncollapsed spaceships
 

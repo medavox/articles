@@ -65,12 +65,18 @@ They threw off these invaders, but this may have left Klingon culture with a per
 
 -----------
 
-Humans are a freak accident caused by the Chicxulub asteroid wiping out the dominant, stable evolutionary branch 5MYA.
+Humans are a freak accident caused by the Chicxulub asteroid wiping out the dominant, stable evolutionary branch 65MYA.
 Our sentience is a random mutation along the path to a new, mammal-dominated stable ecosystem,
 of which humanity should have been only a small part. We 'should' be evolving to be less less intelligent,
 or predated by something now extinct (we killed them off?).
 
 --------
+
+the most war-like species is actually a former prey species, 
+because their innate fear and knee-jerk feelings of danger cause them to overreact,
+and attempt to wip out every threat, whether real or imagined.
+
+---------
 
 A post-human eusocial species
 
@@ -117,6 +123,18 @@ No one is quite sure what the whole is for, or where the orders are coming from.
 Humans following rules and procedures are Turing complete; incredibly slow and error prone, 
 but both problems can be circumvented with sufficient amounts of parallelism and error correction.
 
+None of the human countries have any knowledge or understanding of space or aliens;
+but the ai does! it gets its humnans to polish craters and install collectors in the focal point,
+without any of the humans every really understanding why.
+
+The ethical dilemma the protag civ asks is: is it unethical to keep these intelligent beings in the dark,
+just so the AI can protect itself? It's abundantly clear that their cultural hatred of AI is still very strong,
+and would root out and destroy the paper AI if they had sufficient technological means.
+
+----------
+
+a parasite species, which uses up and significantly shortens the lifespans of its hosts.
+
 --------
 
 A constructed language designed for communicating with a species of intelligent snake-like beings.
@@ -128,7 +146,7 @@ There was a war between humans and snakes two generations ago,
 because the humans kind of assumed the snakes were evil based on the their appearance, and misunderstanding the snake culture.
 
 
-The snake lay 2-5 eggs, but may eat any or all of the young when hatched, if conditions are not right for raising young.
+The snakes lay 2-5 eggs, but may eat any or all of the young when hatched, if conditions are not right for raising young.
 
 The culture has a lot of elements of what humans would characterise as child torture and murder.
 But the snake people strongly believe in only raising the strongest to adulthood,
