@@ -1,13 +1,8 @@
 Science Fiction Story Ideas
 ====
 
-An unsorted collection of ideas that have poppped into my mind, relating to (probably science-fictional)
+An unsorted collection of ideas that have popped into my mind, relating to (probably science-fictional)
 stories that could be told.
-
----
-
-An ancient cosmic guardian species, who became sentient as the pets of a far more advanced civilisation which has gone.
-As if our dogs, moulded by us to imitate humanity, outlive our species and nurtures the growth of intelligent life.
 
 ---
 
@@ -90,7 +85,9 @@ and can be as mild as that of a strung-out meth head
 
 -------
 
-The zombies are just normal humans whose instinctive aversion to cannibalism is replaced by a taste for long pig. They start out looking like normal people who talk and think, but an explosion of meat-borne diseases has left most of them with pretty bad variations of CJD.
+The zombies are just normal humans whose instinctive aversion to cannibalism is replaced by a taste for long pig. 
+
+They start out looking like normal people who talk and think, but an explosion of meat-borne diseases has left most of them with pretty bad variations of CJD.
 
 Early groups of cannibals tried to work together to capture more human meat, but often fell victim to infighting (and in-eating).
 
