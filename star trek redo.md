@@ -177,39 +177,6 @@ in order to give this communciations development a boost.
 The lack of a universal translator is ameliorated by a UNIVERSAL AUXILIARY LANGUAGE:
 Tuki Nuwa!
 
---------
-
-Klingons actually do more closely follow the Phase2 plan for their civilisation,
-originally having a Warrior Caste, Techno/Science Caste and a Ruling Caste.
-
-The thing is, centuries ago the Warrior caste rebelled from their subservient role,
-and committed genocide on the other castes, wiping them out.
-
-Their unbridled warrior culture is all the federation have ever known of them.
-
-It explains their planet-of-hats tendencies:
-they are a post-revolutionary culture, 
-trapped permanently emulating the perceived ideals of their revolutionary forefathers,
-and have become ultra-violent parodies of their more well-rounded ancestor society.
-
-The federation's primary contact with the Klingons has been through this replacement culture.
-
-maybe the modern Klingons (former Warrior caste) were genetically engineered by the Technologists?
-or maybe they were parallel intelligent evolutions on the same planet?
-
-alternatively, after the overthrow (and subsequent genocide) of the other castes,
-maybe a period of extremely violent barbarism and warlords took hold,
-from which Kahless rescued them with the Code of Honor
-
-
-interesting real Klingon backstory note:
-the Klingons' First Contact with an off-world sentient species was when they were invaded by them.
-
-They threw off these invaders, but this may have left Klingon culture with a permanent distrust of aliens
-
-
-Don't forget the sentient former pet culture!
-
 ------
 
 what if the UFP was formed AFTER humanity colonised other worlds,
