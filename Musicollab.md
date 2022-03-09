@@ -19,21 +19,21 @@ Try to keep editing to a minimum - this is meant to be quick and fun, not perfec
 
 You have 7 days from being nominated to take an action and then nominate the next player, or you miss your turn and the previous player gets to nominate someone else (you can still be nominated again later, unless you ask not to be).
 
-You can ask to be nominated, but it *is* the current player's choice.
+You can ask to be nominated, but it *is* the current player's choice. They don't have to nominate you if you asked.
 
-You can ask *not* to be nominated again. 
+You can ask *not* to be nominated again. Everyone *does* have to respect that.
 
 ### Action
 
 Your action can be any of the following (or something else musical I hadn't thought of):
 
 * Write lyrics (you don't have to sing them!)
-* Add chords (write them down and share them)
+* Add chords (You do have to record audio for them somehow - you can't add chords that no-one can play. Write them down and share them)
 * Record something vaguely musical (it can be anything: guitar, piano, singing, spoons, pot-and-pans)
     - On top of existing parts - like adding a bassline over a guitar part
     - Add to the song structure by recording new parts - after, before or in between existing sections! Like a bridge, or a second verse. Note that you might have to get a little fancy with editing to do this.
 * Add notes for an existing track - write out chords, transcribe melody or lyrics, specify the key, 
-* Skip a turn - this is fine! Maybe you got nominated by surprise and don't want to play; maybe you're too busy this week. Maybe you think the song is already perfect! ;)
+* Skip a turn - this is fine! Maybe you got nominated by surprise and don't want to play; maybe you're too busy this week. Maybe you think the song is already perfect! :)
 * Move existing parts around - A little editing is ok, but too much and it can get stressful.
 
 You can try as many takes as you like, but in the end you can only add one new track. Feel free to splice your one track together from a million takes, if you can be bothered :P  But only one take can be playing at any one time - we should only hear one of you on each track.
@@ -79,5 +79,5 @@ This means you agree not to take criticism personally, and be open to others' id
 
 Remember - it doesn't have to be perfect. Plenty of famous songs have mistakes hidden in them.
 
-Don't complain about audio/microphone quality - except you can complain about clipping - everyone can help that.
+Don't complain too much about audio/microphone quality - except you can complain about clipping - everyone can help that.
 
