@@ -84,4 +84,10 @@ Surround the searched-for text with quotes if it contains a space.
 
     grep -Iric <text> | grep -v :O |  sort -n -t : -k 2
     
+#recursively search for files containing both StringA and StringB (StringA and StringB don’t have to be on the same line)
+    
+    grep -Irl StringA | xargs grep StringB
+
+
+    
 %tags:linux, apt, debian, ubuntu, bash, commandline, server
