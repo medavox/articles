@@ -4,3 +4,17 @@ use the focusrite 2i4 - it's a task to seee if it works on linux ootb, and if no
 
 
 ## Effects pedal software
+guitarix
+rakarrack - learning curve
+SuperCollider? if I want to write my own FX in code
+go-dsp-guitar
+
+
+
+
+## ALL IN ONE:
+
+The MOD Duo, Duo X and  Dwarf are physical products that run OSS effects, and also have a paid market
+the device costs 500EUR but they've made its OS available as a live bootable ISO image!
+https://github.com/moddevices/mod-desktop
+https://mod.audio/
