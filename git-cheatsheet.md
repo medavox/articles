@@ -9,7 +9,7 @@ git ls-files --others --exclude-standard
 [see a list of which commits are on one branch but not another](https://stackoverflow.com/a/4207176):
 
 ```
-git log oldbranch ^newbranch --no-merges
+git log --no-merges oldbranch ^newbranch
 ```
 
 -----
