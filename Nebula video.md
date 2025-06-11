@@ -21,7 +21,7 @@ So if I did buy in (financially and mentally) to Nebula, what is likely to happe
 
 # Scenario 1: Our Incredible Journey
 
-What's to say you're not aiming to get bought up by a big tech conglomerate? You don't even have to expressly aiming for this (or at least not dete4ctably to your users), but the asumption in the tech industry is **anything can be bought for enough money**, and they have enough money. And if the carrot doesn't work, there's always the stick: they always have the money for litigation, smear campaigns and general harassment.
+What's to say you're not aiming to get bought up by a big tech conglomerate? You don't even have to be expressly aiming for this right now (or at least not detectably to your users), but the assumption in the tech industry is **anything can be bought for enough money**, and they have enough money. And if the carrot doesn't work, there's always the stick: they always have the money for litigation, smear campaigns and general harassment.
 
 I don't even know if it exists anymore, but there's a great tumblr called [Our Incredible Journey](https://ourincrediblejourney.tumblr.com/) that documents all the companies whose value has been built by enthusiastic users filling them with lists and photos and their lives basically, until a huge Multinational tech corporation SWOOPs in, buys it, and shuts it down. It demonstrates my fatigue with all these small innovative companies I want to succeed and then support, being bought and shut down by much bigger companies. I'm finished with investing myself (my time, and emotionally) into anything else that this could happen to.
 
