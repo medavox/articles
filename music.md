@@ -7,6 +7,12 @@ Most recent entries first.
 
 Any weeks without entries, I've probably been listening to old stuff.
 
+2024
+====
+
+Found out that QOTSA's sound is VERY reminiscent of the band it grew from: Kyuss.
+Kyuss are awesome
+
 September 2020
 =============
 
