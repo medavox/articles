@@ -61,7 +61,8 @@ When all active players skip their turn, the song is finished, and you have to p
 Or it's just over when it's over. Just remember to share it! If you want. Whatever man
 
 
-You can work on what you want to add next even when it's not your turn. Just be aware that someone else might alter the song structure along the way!
+You can work on what you want to add next even when it's not your turn. 
+Just be aware that someone else might alter the song structure along the way!
 
 ## How to Add A Track
 
@@ -79,5 +80,5 @@ This means you agree not to take criticism personally, and be open to others' id
 
 Remember - it doesn't have to be perfect. Plenty of famous songs have mistakes hidden in them.
 
-Don't complain too much about audio/microphone quality - except you can complain about clipping - everyone can help that.
+Don't complain too much about audio/microphone quality; except you can complain about clipping - everyone can help that.
 
